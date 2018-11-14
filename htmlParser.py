@@ -18,10 +18,8 @@ class HtmlParser(object):
         return new_data
     
     def test(self):
-        # with open(r'test/test.txt','r',encoding='utf-8') as fileReader:
-        #     html = fileReader.read()
         url = "https://www.amazon.com/dp/B0042AGNA0"
-        soup = BeautifulSoup(open(r'test/test.txt'),"lxml")
+        soup = BeautifulSoup(open(r'test.txt'),"lxml")
         #print(soup.find_all('span'))
         new_data = self._get_new_data(url,soup)
 
@@ -30,29 +28,67 @@ class HtmlParser(object):
     def _get_new_data(self,page_url,soup):   #使用beautifulsoup查询
         data={}
         data['url']=page_url
+        catag = date = actor = director = None
         title = soup.find('span',id="productTitle")
-        data['title']=title.get_text().strip()
-        table = soup.find('div',id='detail-bullets').find_all("b")
-        catag = date = actor = director = ""
-        for items in table:
-            itemName = items.get_text()
-            if itemName.strip() == "Actors:":  #获取演员
-                actor = items.find_next_sibling('a')
-                if not actor is None:
-                    actor = actor.get_text().strip() 
-            elif itemName.strip() == "Directors:":  #获取导演
-                director = items.find_next_sibling('a')
-                if not director is None:
-                    director = director.get_text().strip()
-            elif itemName.strip() == "DVD Release Date:": #获取发行日期
-                date = items.nextSibling.strip()
-            elif itemName.strip() == "Amazon Best Sellers Rank:": #获取类型
-                catag = items.find_next('b')
-                if not catag is None:
-                    catag = catag.get_text().strip()
+        if title is None: #一类网页
+            #获取标题
+            title = soup.find('h1',attrs={"class": "DigitalVideoUI_spacing__base dv-node-dp-title avu-full-width"})
+            data['title'] = title.get_text().strip()
+            #获取日期
+            date = soup.find("span",attrs={"data-automation-id":"release-year-badge"})
+            if not date is None:
+                date = date.get_text().strip()
+            data['date'] = date
+            table = soup.find('table')      #第一个table一般都是详细信息
+            #table = soup.find('table',attrs={"class": "a-keyvalue a-horizontal-stripes  a-align-top product-details-meta avu-text-small"})
+            tableTitle = table.find_all("th")
+            for items in tableTitle:
+                title = items.get_text().strip()
+                #获取类型
+                if title == "Genres":
+                    catag = items.find_next("td")
+                    if not catag is None:
+                        catag = catag.get_text().strip()
+                #获取导演
+                elif title == "Director":
+                    director = items.find_next("td")
+                    if not director is None:
+                        director = director.get_text().strip()
+                #获取演员
+                elif title == "Starring":
+                    actor = items.find_next("td")
+                    if not actor is None:
+                        actor = actor.get_text().strip()
+                
+        else:            #二类网页    
+            #获取标题        
+            data['title']=title.get_text().strip()
+            table = soup.find('div',id='detail-bullets').find_all("b")
+            for items in table:
+                itemName = items.get_text()
+                #获取演员
+                if itemName.strip() == "Actors:":  
+                    actor = items.find_next_sibling('a')
+                    if not actor is None:
+                        actor = actor.get_text().strip() 
+                #获取导演
+                elif itemName.strip() == "Directors:":  
+                    director = items.find_next_sibling('a')
+                    if not director is None:
+                        director = director.get_text().strip()
+                #获取发行日期
+                elif itemName.strip() == "DVD Release Date:": 
+                    date = items.nextSibling.strip()
+                #获取类型
+                elif itemName.strip() == "Amazon Best Sellers Rank:": 
+                    catag = items.find_next('b')
+                    if not catag is None:
+                        catag = catag.get_text().strip()
+        
+        #获取评价数目（两种网页一个格式）
         cus_count = soup.find("h2",attrs={"data-hook": "total-review-count"})
         if not cus_count is None:
-            cus_count = cus_count.get_text()  #获取评价数目
+            cus_count = cus_count.get_text()  
         data['actor'] = actor
         data['date']=date
         data['director']=director
@@ -95,8 +131,10 @@ class HtmlParser(object):
 if __name__=="__main__":
     hp =  HtmlParser()
     downloader = HtmlDownloader()
-    url = "https://www.amazon.com/dp/B0042AGNA0"
+    url = "https://www.amazon.com/dp/B002PT1D1E"
     pro = None
     hp.test()
-    #html = downloader.download(url,pro)
-    #hp.parser(url,html)
+    # html = downloader.download(url,pro)
+    # with open("test.txt","w",errors='ignore') as w:
+    #     w.write(html)
+    # hp.parser(url,html)
