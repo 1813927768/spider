@@ -37,10 +37,7 @@ class HtmlDownloader(object):
         cookie = self.cookies.get(user_agent)   #如果存在cookie则使用
         proxy = {'proxy':pro}      
         headers = {
-            'User-Agent':user_agent,
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-            'Accept-Encoding':'gzip, deflate, br',
-            'Accept-Language':'zh-CN,zh;q=0.9,en;q=0.8',        
+            'User-Agent':user_agent   
         }
         r = requests.get(url,cookies = cookie,headers=headers,proxies=proxy,timeout=5)
         if cookie is None:                  #如果不存在cookie则添加
@@ -53,10 +50,11 @@ class HtmlDownloader(object):
     
 
 if __name__=="__main__":
-    myproxies = {
-            'http':'127.0.0.1:2740',
-            'https':'127.0.0.1:2740',
-        }
+    # myproxies = {
+    #         'http':'127.0.0.1:2740',
+    #         'https':'127.0.0.1:2740',
+    #     }
+    myproxies = None
     hd =  HtmlDownloader()
     for i in range(1,10):
         hd.download('https://www.amazon.com/dp/B003BUAP10',myproxies)
