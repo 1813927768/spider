@@ -38,7 +38,7 @@ def check_ip(ip, good_proxies):
             'https://www.amazon.com/dp/6302030870',
         ]
         url = random.choice(urls)
-        r = requests.get(url, headers=header, proxies=pro,timeout=2)
+        r = requests.get(url, headers=header, proxies=pro,timeout=3)
         r.raise_for_status()
         print(r.status_code, ip)
     except Exception as e:
@@ -84,6 +84,7 @@ class GetThread(threading.Thread):
     def __init__(self, args):
         threading.Thread.__init__(self, args=args)
         self.good_proxies = []
+        
 
     def run(self):
         url = 'http://www.xicidaili.com/nn/%d' % self._args[0]
@@ -150,6 +151,7 @@ def getProxy():
     len2 = len(proxy)-len1
     time3 = time.time()
     print("\n\n pool1: %f s  %d \n pool2: %f s  %d\n\n"%(time2-time1,len1,time3-time2,len2))
+    time.sleep(1)
     return proxy
 
 

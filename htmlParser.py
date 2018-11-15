@@ -33,6 +33,8 @@ class HtmlParser(object):
         if title is None: #一类网页
             #获取标题
             title = soup.find('h1',attrs={"class": "DigitalVideoUI_spacing__base dv-node-dp-title avu-full-width"})
+            if title is None:
+                raise Exception("robot check")
             data['title'] = title.get_text().strip()
             #获取日期
             date = soup.find("span",attrs={"data-automation-id":"release-year-badge"})

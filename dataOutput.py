@@ -1,6 +1,8 @@
 #coding:utf-8
 
-import csv
+#import csv
+#import threading
+
 
 class DataOutput(object):
 
@@ -43,17 +45,17 @@ class DataOutput(object):
         # else:
         #     row.append(data['imdb'])
         # if(data['url'] is None):
-        #     row.append('none')
+        #     row.append('none') 
         # else:
         #     row.append(data['url'])      
         # self.writer.writerow(row)
-        self.write_line("title: "+data["title"],True)
-        self.write_line("director: "+data["director"],True)
-        self.write_line("actor: "+data["actor"],True)
-        self.write_line("release-date: "+data["date"],True)
-        self.write_line("catagory: "+data["catagory"],True)
-        self.write_line("customer-number: "+data["count"],True)
-        self.write_line("url: "+data["url"],True)
+        self.write_line("title: "+str(data["title"]),True)
+        self.write_line("director: "+str(data["director"]),True)
+        self.write_line("actor: "+str(data["actor"]),True)
+        self.write_line("release-date: "+str(data["date"]),True)
+        self.write_line("catagory: "+str(data["catagory"]),True)
+        self.write_line("customer-number: "+str(data["count"]),True)
+        self.write_line("url: "+str(data["url"]),True)
         self.write_line("",True)
 
 
@@ -61,16 +63,20 @@ class DataOutput(object):
         if err is None:
             return
         # self.errhandle.writerow(err)
-        self.write_line(err,False)
+        self.write_line(err[0],False)
+        self.write_line(str(err[1]),False)
         self.write_line("",False)
 
     def quit_safely(self):
-        self.errfile.close()
-        self.csvfile.close()
+        # self.errfile.close()
+        # self.csvfile.close()
+        pass
 
     def flush(self):
-        self.errfile.flush()
-        self.csvfile.flush()
+        # self.errfile.flush()
+        # self.csvfile.flush()
+        self.ferr.flush()
+        self.fout.flush()
 
 
 if __name__=="__main__":
@@ -78,4 +84,4 @@ if __name__=="__main__":
     test = {'title':'123','url':'https://www.baidu.com','imdb':True,'rating':False}
     # do.store_data(test)
     err =  ["url","errmsg"] 
-    do.store_err(err)
+    #do.store_err(err)

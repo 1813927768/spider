@@ -1,0 +1,4914 @@
+https://www.amazon.com/dp/B000063K0C
+('robot check',)
+
+https://www.amazon.com/dp/B000YDEMZC
+('robot check',)
+
+https://www.amazon.com/dp/B000063K0W
+('robot check',)
+
+49
+0.125
+
+https://www.amazon.com/dp/B00004Y7GY
+('robot check',)
+
+https://www.amazon.com/dp/B00004UB7A
+('robot check',)
+
+https://www.amazon.com/dp/B00004UB7B
+('robot check',)
+
+99
+0.2653061224489796
+
+https://www.amazon.com/dp/B001LV2P78
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y7GH
+('404 Client Error: Not Found for url: https://www.amazon.com/dp/B00004Y7GH',)
+
+149
+0.2905405405405405
+
+199
+0.30808080808080807
+
+249
+0.3024193548387097
+
+https://www.amazon.com/dp/B00005JN55
+('robot check',)
+
+299
+0.3221476510067114
+
+349
+0.33045977011494254
+
+https://www.amazon.com/dp/B0047C660A
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0030TYV1W
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5S
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00004Y875
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5Y
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5T
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5Z
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5V
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5L
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5P
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5O
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5G
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00004Z2Y1
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5R
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5W
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5H
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00004YS4K
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5N
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5Q
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5I
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001I9753C
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5K
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0001XANXA
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B003Z8ZC0M
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6303957323
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000BVN0XW
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005MM5M
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000VIH2BQ
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004SKLD9A
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001P7YDAK
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B001P7YDAK (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000WC39RW
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0024O9LRS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00023B1A8
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B006GLOOGS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001R0AY6W
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004D5B3AE
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0024O9LRI
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6300181650
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000WC39RM
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000WC39RC
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001N6FPRS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6302777089
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00009WHXD
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6304609574
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0011FLGY2
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0032W42MA
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B002BH4OXE
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005ALON
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0006H4C6U
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B005EYFKZ2
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B002KIMZCG
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B005FUTBWS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0015LMOJ8
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B008Q00TRA
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0037X5BHE
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005RRG9
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00200KHPG
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001J46GQ8
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004YZ3MCA
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6300210014
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001N6FPRI
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00004CM7E
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00078JXVM
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/630480802X
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001EL6EGI
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B003UESJLK
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6301826647
+('robot check',)
+
+https://www.amazon.com/dp/B00004CM71
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001J34FUS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/1931669082
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000VWYJ72
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6303861245
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000GNOLWO
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005ALOW
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6300185826
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0007R9OB2
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004T0XYJQ
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0011Z690S
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001G5ZO8G
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00004CM7Y
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000VWYJ7C
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000VWYJ7M
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00004CM7Z
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00198PJOY
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004LWV5L6
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00413Q7H2
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00004CM7L
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00023XK70
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B003CE96ZQ
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B003Y5H1U0
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0016MJ6II
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B005DKS1SU
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0001FZB4Y
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0011FLGYW
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B002DU5LIQ
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00437IE8G
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0011FLGYC
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/6301801849
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0009ODUZY
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/0615543537
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000PC6G8S
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000W23MA6
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/0849958261
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/0790736977
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B004PJ78D4
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0030ATZI0
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0011FLGYM
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000A88ESM
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000BX4X2M
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0007RR446
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B004VLYHN0
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/630481089X
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000X1X49A
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B005SYZYZ4
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B006MWA93S
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B005XB0RZO
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/1575236753
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B004D8P244
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/630025061X
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/0792839226
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0002IU0GY
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000WPE8GU
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0007MVXSE
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0009OBHNQ
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000HEVZDK
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000BB19EO
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00006K15D
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000641A04
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00007H005
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004D8P24Y
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/630597229X
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B00005ALO6
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B003UMH2XS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000193304
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/6303173004
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0009WFENW
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000BP86V4
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000PSJDS2
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/0783217390
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0030ATZIK
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000BP86VE
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0009WFEN2
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B004RSU8A8
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/1930877064
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B005J5EOCQ
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0030ATZIA
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0029XHT5A
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0074JOWBS
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B001FRCCR6
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0007MVXS4
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000QJMCQU
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0007NMKSU
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000063BME
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000BX4X22
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B000BP86VY
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+399
+0.4824120603015075
+
+https://www.amazon.com/dp/B0056HPZES
+('robot check',)
+
+https://www.amazon.com/dp/B007ZULBH4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303499147
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+449
+0.4375
+
+https://www.amazon.com/dp/6304202652
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+499
+0.41164658634538154
+
+https://www.amazon.com/dp/B00007JGCM
+('robot check',)
+
+https://www.amazon.com/dp/B00006LPD5
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/6304039212
+('robot check',)
+
+https://www.amazon.com/dp/B001CMNH6Y
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004ZEPZ
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00004ZEPZ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B00008HE2I
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000DCGT8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000GBFRME
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004JO3A5K
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00009W8PD
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000IFRRKI
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6305079730
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004RPQSTG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004X26VUY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/0792845846
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6304586442
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00002E255
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00002E255 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000VARC3C
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B005P9SLES
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/0767825616
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00110BJ8U
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+549
+0.40145985401459855
+
+https://www.amazon.com/dp/B00002E257
+('robot check',)
+
+https://www.amazon.com/dp/B001KEHAHQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004GFO362
+('robot check',)
+
+https://www.amazon.com/dp/6301928407
+('robot check',)
+
+https://www.amazon.com/dp/B004X1VUNI
+('robot check',)
+
+https://www.amazon.com/dp/1568552688
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B004INQ7BQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0001XQE7O
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000P0NC4G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004FV55VO
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B004FV55VO (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B002JN74Z0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004MPI8U8
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B0000DCGT3
+('robot check',)
+
+https://www.amazon.com/dp/B007QXJ3FM
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B000J0JRPA
+('robot check',)
+
+https://www.amazon.com/dp/5554458521
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000DCGT4
+('robot check',)
+
+https://www.amazon.com/dp/6301300564
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000I9YXOC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000C2IRY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002CX21K
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6300214699
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004YRWU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004FV55VY
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B00004YRWV
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004YRWW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006ZYCH2O
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001RVU25E
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004YRWX
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B005LS4MR8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004YRWZ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002ZJ711U
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001LF2WCC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00008QSAW
+('robot check',)
+
+https://www.amazon.com/dp/B0009S86S6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+599
+0.4197324414715719
+
+https://www.amazon.com/dp/B00008QSAJ
+('robot check',)
+
+https://www.amazon.com/dp/B000VG0N2S
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0047BXR0S
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004T84VG8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001OLC6FQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001XCWNOA
+('robot check',)
+
+https://www.amazon.com/dp/B001EMU332
+('robot check',)
+
+https://www.amazon.com/dp/B000AYQO6K
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B0038ZGLRA
+('robot check',)
+
+https://www.amazon.com/dp/B00008QSAG
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00008QSAG (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B001ILTUL0
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out. (read timeout=10)",),)
+
+https://www.amazon.com/dp/B004JXRXDQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000FS9FCQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B005066U2G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002EJ7IK
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00006LPD6
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B000006GN3
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0007UDD5W
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001D263FA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0008KLW72
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/630295715X
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002MHEKK
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0001S0TN4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6305300704
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0007UDD5M
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000JJ4F8K
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000A9GI0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0028O9XPY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002EJ7IU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000A9GI5
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004CSNU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+649
+0.42901234567901236
+
+https://www.amazon.com/dp/B003AKJ102
+('robot check',)
+
+https://www.amazon.com/dp/B000EZ8F7Q
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSN6
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B001XCWNO0
+('robot check',)
+
+https://www.amazon.com/dp/B0001XAMLS
+('robot check',)
+
+https://www.amazon.com/dp/B003ATD7MG
+('robot check',)
+
+https://www.amazon.com/dp/B0002EJ7IA
+('robot check',)
+
+https://www.amazon.com/dp/B0001AW0AC
+('robot check',)
+
+https://www.amazon.com/dp/6303671829
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/6303671829 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000B6N5VY
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0029GJKWW
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/6301007360
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000B6N5VO
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000WVPXBI
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B005Y9Z22S
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000JJLTA2
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B005HGKY4Y
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0007TV6AM
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/0792899504
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00000IXBY
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0008KLW7W
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/157362652X
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B004W7FUZW
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00379AHA4
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B0000A9GIE
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0000A9GIZ
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B000HPKLAM
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0003JAO7C
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B005U9RRY8
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B001P9KR94
+('robot check',)
+
+https://www.amazon.com/dp/630537449X
+('robot check',)
+
+https://www.amazon.com/dp/B000163WFS
+('robot check',)
+
+https://www.amazon.com/dp/B00284G2A8
+('robot check',)
+
+https://www.amazon.com/dp/630401449X
+('robot check',)
+
+https://www.amazon.com/dp/B004JN0XGK
+('robot check',)
+
+https://www.amazon.com/dp/B0001LYFHW
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSNR
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSNM
+('robot check',)
+
+https://www.amazon.com/dp/B003U637VU
+('robot check',)
+
+https://www.amazon.com/dp/B000BKVL7A
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSN0
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSN7
+('robot check',)
+
+https://www.amazon.com/dp/6301618688
+('robot check',)
+
+https://www.amazon.com/dp/6304981082
+('robot check',)
+
+https://www.amazon.com/dp/B0028O9XP4
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSN1
+('robot check',)
+
+https://www.amazon.com/dp/B00284G2AI
+('robot check',)
+
+https://www.amazon.com/dp/B00004CSN2
+('robot check',)
+
+https://www.amazon.com/dp/B0090EDEQE
+('robot check',)
+
+https://www.amazon.com/dp/6305194718
+('robot check',)
+
+699
+0.4684813753581662
+
+https://www.amazon.com/dp/6302718872
+('robot check',)
+
+749
+0.45454545454545453
+
+https://www.amazon.com/dp/B0000A9GIS
+('robot check',)
+
+https://www.amazon.com/dp/B0000A9GIP
+('robot check',)
+
+https://www.amazon.com/dp/B003NWDSLA
+('robot check',)
+
+https://www.amazon.com/dp/B0001S0TNY
+('robot check',)
+
+https://www.amazon.com/dp/B00533XD2Q
+('robot check',)
+
+https://www.amazon.com/dp/B0001JXOT4
+('robot check',)
+
+https://www.amazon.com/dp/B0002TSZL0
+('robot check',)
+
+https://www.amazon.com/dp/B002J9F9GA
+('robot check',)
+
+https://www.amazon.com/dp/B007964F9A
+('robot check',)
+
+https://www.amazon.com/dp/1586550039
+('robot check',)
+
+https://www.amazon.com/dp/B0002OXUPG
+('robot check',)
+
+https://www.amazon.com/dp/B000XS1ER2
+('robot check',)
+
+https://www.amazon.com/dp/B000675V6A
+('robot check',)
+
+https://www.amazon.com/dp/B002UIJSUI
+('robot check',)
+
+https://www.amazon.com/dp/B000OONRWU
+('robot check',)
+
+https://www.amazon.com/dp/078200962X
+('robot check',)
+
+https://www.amazon.com/dp/B002TZS87G
+('robot check',)
+
+https://www.amazon.com/dp/B000HLDFNG
+('robot check',)
+
+https://www.amazon.com/dp/B000YMKBLM
+('robot check',)
+
+https://www.amazon.com/dp/B001URA5FM
+('robot check',)
+
+https://www.amazon.com/dp/B000HLDFNQ
+('robot check',)
+
+https://www.amazon.com/dp/B0041SI7DE
+('robot check',)
+
+https://www.amazon.com/dp/B000M2MA4A
+('robot check',)
+
+https://www.amazon.com/dp/B0019LY3M0
+('robot check',)
+
+https://www.amazon.com/dp/B0027VK15Y
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y7I4
+('robot check',)
+
+799
+0.4548872180451128
+
+https://www.amazon.com/dp/B000LPS380
+('robot check',)
+
+https://www.amazon.com/dp/B002UIEM9K
+('robot check',)
+
+https://www.amazon.com/dp/B008CSA3YA
+('robot check',)
+
+https://www.amazon.com/dp/B0009MWEM6
+('robot check',)
+
+https://www.amazon.com/dp/B00373VA38
+('robot check',)
+
+https://www.amazon.com/dp/B00001U0FY
+('robot check',)
+
+https://www.amazon.com/dp/B005K08J8U
+('robot check',)
+
+https://www.amazon.com/dp/B00551WRDW
+('robot check',)
+
+https://www.amazon.com/dp/B0009MWEMG
+('robot check',)
+
+https://www.amazon.com/dp/B000LPS38A
+('robot check',)
+
+https://www.amazon.com/dp/B000E1NXIG
+('robot check',)
+
+https://www.amazon.com/dp/B00001U0FU
+('robot check',)
+
+https://www.amazon.com/dp/B000I2KQHC
+('robot check',)
+
+https://www.amazon.com/dp/B005DN5BE4
+('robot check',)
+
+https://www.amazon.com/dp/B004LVNKBK
+('robot check',)
+
+https://www.amazon.com/dp/B0001Z9370
+('robot check',)
+
+https://www.amazon.com/dp/B0092R5XW2
+('robot check',)
+
+https://www.amazon.com/dp/B000IDBZE4
+('robot check',)
+
+https://www.amazon.com/dp/B00001U0FM
+('robot check',)
+
+https://www.amazon.com/dp/B000LPS38U
+('robot check',)
+
+https://www.amazon.com/dp/B000HLDFN6
+('robot check',)
+
+https://www.amazon.com/dp/B000CQBY4S
+('robot check',)
+
+https://www.amazon.com/dp/6303675026
+('robot check',)
+
+https://www.amazon.com/dp/B00016XNNY
+('robot check',)
+
+https://www.amazon.com/dp/B00008EY91
+('robot check',)
+
+https://www.amazon.com/dp/B000I2KQHW
+('robot check',)
+
+https://www.amazon.com/dp/B005Z5D5IY
+('robot check',)
+
+https://www.amazon.com/dp/6302700892
+('robot check',)
+
+https://www.amazon.com/dp/630229648X
+('robot check',)
+
+https://www.amazon.com/dp/B004GIZWNW
+('robot check',)
+
+https://www.amazon.com/dp/6303605524
+('robot check',)
+
+https://www.amazon.com/dp/B000EQ5V36
+('robot check',)
+
+https://www.amazon.com/dp/0792843878
+('robot check',)
+
+https://www.amazon.com/dp/6302002516
+('robot check',)
+
+https://www.amazon.com/dp/B00069FLAY
+('robot check',)
+
+https://www.amazon.com/dp/B00000JLWC
+('robot check',)
+
+https://www.amazon.com/dp/6301895975
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y7I1
+('robot check',)
+
+https://www.amazon.com/dp/B00000JLWW
+('robot check',)
+
+https://www.amazon.com/dp/B000FH8U14
+('robot check',)
+
+https://www.amazon.com/dp/B002U1MAEQ
+('robot check',)
+
+https://www.amazon.com/dp/B0001VSCZI
+('robot check',)
+
+https://www.amazon.com/dp/B00000JLWX
+('robot check',)
+
+https://www.amazon.com/dp/B0000AGTL4
+('robot check',)
+
+https://www.amazon.com/dp/B0009275MA
+('robot check',)
+
+https://www.amazon.com/dp/B00008UAPT
+('robot check',)
+
+https://www.amazon.com/dp/B00000JLWQ
+('robot check',)
+
+https://www.amazon.com/dp/B001HUHBAE
+('robot check',)
+
+https://www.amazon.com/dp/B0056031LE
+('robot check',)
+
+https://www.amazon.com/dp/B000I0GGSW
+('robot check',)
+
+https://www.amazon.com/dp/B00008UAPP
+('robot check',)
+
+https://www.amazon.com/dp/B00000JLWR
+('robot check',)
+
+https://www.amazon.com/dp/B00008UAPL
+('robot check',)
+
+https://www.amazon.com/dp/B00008UAPG
+('robot check',)
+
+https://www.amazon.com/dp/B002FFQEY4
+('robot check',)
+
+https://www.amazon.com/dp/B0039N74W2
+('robot check',)
+
+https://www.amazon.com/dp/B00007AS0W
+('robot check',)
+
+https://www.amazon.com/dp/B00008UAPJ
+('robot check',)
+
+https://www.amazon.com/dp/B001HUHBAY
+('robot check',)
+
+https://www.amazon.com/dp/B00008UAPH
+('robot check',)
+
+https://www.amazon.com/dp/B000UAE7VS
+('robot check',)
+
+https://www.amazon.com/dp/B000OVLBEY
+('robot check',)
+
+https://www.amazon.com/dp/B00020BW64
+('robot check',)
+
+https://www.amazon.com/dp/6304137257
+('robot check',)
+
+https://www.amazon.com/dp/B0062GWVP8
+('robot check',)
+
+https://www.amazon.com/dp/B004DD9DD0
+('robot check',)
+
+https://www.amazon.com/dp/B00069WF8U
+('robot check',)
+
+https://www.amazon.com/dp/B002PB4I50
+('robot check',)
+
+https://www.amazon.com/dp/B005WOAE0K
+('robot check',)
+
+https://www.amazon.com/dp/B002IDDRT8
+('robot check',)
+
+https://www.amazon.com/dp/B0047DY61K
+('robot check',)
+
+https://www.amazon.com/dp/B0006ZXJDY
+('robot check',)
+
+https://www.amazon.com/dp/B001NTFBM4
+('robot check',)
+
+https://www.amazon.com/dp/B001C4ZQ9I
+('robot check',)
+
+https://www.amazon.com/dp/B000FZETXE
+('robot check',)
+
+https://www.amazon.com/dp/B001GAO586
+('robot check',)
+
+https://www.amazon.com/dp/B003ASLJM2
+('robot check',)
+
+https://www.amazon.com/dp/B00000JLW7
+('robot check',)
+
+https://www.amazon.com/dp/B000ZU98GW
+('robot check',)
+
+https://www.amazon.com/dp/B003C5FMLW
+('robot check',)
+
+https://www.amazon.com/dp/B007SW1PRA
+('robot check',)
+
+https://www.amazon.com/dp/B0028XC2I0
+('robot check',)
+
+https://www.amazon.com/dp/B00009Q7WE
+('robot check',)
+
+https://www.amazon.com/dp/B000NZ412U
+('robot check',)
+
+https://www.amazon.com/dp/B007V973UI
+('robot check',)
+
+https://www.amazon.com/dp/B00319QO66
+('robot check',)
+
+849
+0.4363207547169811
+
+https://www.amazon.com/dp/B003ULSS5A
+('robot check',)
+
+https://www.amazon.com/dp/B00004VVNL
+('robot check',)
+
+https://www.amazon.com/dp/B002QEXBFY
+('robot check',)
+
+https://www.amazon.com/dp/B005CFC06A
+('robot check',)
+
+https://www.amazon.com/dp/B00004XMV2
+('robot check',)
+
+https://www.amazon.com/dp/B0017U3YCS
+('robot check',)
+
+https://www.amazon.com/dp/0790738082
+('robot check',)
+
+https://www.amazon.com/dp/B00004VVNJ
+('robot check',)
+
+https://www.amazon.com/dp/B000QRIKCC
+('robot check',)
+
+https://www.amazon.com/dp/B000CSTKHE
+('robot check',)
+
+https://www.amazon.com/dp/B000CSTKHO
+('robot check',)
+
+https://www.amazon.com/dp/B000FA57U8
+('robot check',)
+
+https://www.amazon.com/dp/B0030BOCGO
+('robot check',)
+
+https://www.amazon.com/dp/B0001NBNCK
+('robot check',)
+
+https://www.amazon.com/dp/B00006FDAH
+('robot check',)
+
+https://www.amazon.com/dp/B00004VVNE
+('robot check',)
+
+https://www.amazon.com/dp/B0001BS4RY
+('robot check',)
+
+https://www.amazon.com/dp/B000KF0DUM
+('robot check',)
+
+https://www.amazon.com/dp/B00004WI9Y
+('robot check',)
+
+https://www.amazon.com/dp/B0014W2G1O
+('robot check',)
+
+https://www.amazon.com/dp/B000KF0DU2
+('robot check',)
+
+https://www.amazon.com/dp/B005F2JRUC
+('robot check',)
+
+https://www.amazon.com/dp/B000FUF6S6
+('robot check',)
+
+https://www.amazon.com/dp/B000KF0DUC
+('robot check',)
+
+https://www.amazon.com/dp/0615544703
+('robot check',)
+
+899
+0.43207126948775054
+
+https://www.amazon.com/dp/B000FA57UI
+('robot check',)
+
+https://www.amazon.com/dp/B00004WI9K
+('robot check',)
+
+https://www.amazon.com/dp/6303082777
+('robot check',)
+
+https://www.amazon.com/dp/B000CSTKH4
+('robot check',)
+
+https://www.amazon.com/dp/B0002IQC6Q
+('robot check',)
+
+https://www.amazon.com/dp/6302786606
+('robot check',)
+
+https://www.amazon.com/dp/B00004WI9D
+('robot check',)
+
+https://www.amazon.com/dp/6302043042
+('robot check',)
+
+https://www.amazon.com/dp/B00005LLJD
+('robot check',)
+
+https://www.amazon.com/dp/B000UAE7PY
+('robot check',)
+
+https://www.amazon.com/dp/B0009WMEOO
+('robot check',)
+
+https://www.amazon.com/dp/B000U6C39K
+('robot check',)
+
+https://www.amazon.com/dp/B0000AZT20
+('robot check',)
+
+https://www.amazon.com/dp/0194593711
+('robot check',)
+
+https://www.amazon.com/dp/B007GUQNZ8
+('robot check',)
+
+https://www.amazon.com/dp/B001PJRARQ
+('robot check',)
+
+https://www.amazon.com/dp/B0016K76X2
+('robot check',)
+
+https://www.amazon.com/dp/6302267501
+('robot check',)
+
+https://www.amazon.com/dp/B002CEK2PA
+('robot check',)
+
+https://www.amazon.com/dp/B00009Q7W9
+('robot check',)
+
+https://www.amazon.com/dp/B000EJ9VAC
+('robot check',)
+
+https://www.amazon.com/dp/1562802259
+('robot check',)
+
+https://www.amazon.com/dp/B0055SJW42
+('robot check',)
+
+https://www.amazon.com/dp/6300160564
+('robot check',)
+
+https://www.amazon.com/dp/630410765X
+('robot check',)
+
+https://www.amazon.com/dp/B003BSZZOY
+('robot check',)
+
+https://www.amazon.com/dp/6304140754
+('robot check',)
+
+https://www.amazon.com/dp/B000HN3232
+('robot check',)
+
+https://www.amazon.com/dp/6304911696
+('robot check',)
+
+https://www.amazon.com/dp/B000BDGVSG
+('robot check',)
+
+https://www.amazon.com/dp/B0001ZWY80
+('robot check',)
+
+https://www.amazon.com/dp/B00004RG65
+('robot check',)
+
+https://www.amazon.com/dp/B0078YWFZY
+('robot check',)
+
+https://www.amazon.com/dp/6301801296
+('robot check',)
+
+https://www.amazon.com/dp/6301599896
+('robot check',)
+
+https://www.amazon.com/dp/B000VUQ4HW
+('robot check',)
+
+https://www.amazon.com/dp/6302453267
+('robot check',)
+
+https://www.amazon.com/dp/B000RO9PUU
+('robot check',)
+
+949
+0.4208860759493671
+
+https://www.amazon.com/dp/B0002S93XU
+('robot check',)
+
+https://www.amazon.com/dp/6305830924
+('robot check',)
+
+https://www.amazon.com/dp/B000294T0Q
+('robot check',)
+
+https://www.amazon.com/dp/B0016RTUG6
+('robot check',)
+
+https://www.amazon.com/dp/B005BYBZDG
+('robot check',)
+
+https://www.amazon.com/dp/6301590570
+('robot check',)
+
+https://www.amazon.com/dp/0790743272
+('robot check',)
+
+https://www.amazon.com/dp/B000065U57
+('robot check',)
+
+https://www.amazon.com/dp/B000JPDJUY
+('robot check',)
+
+https://www.amazon.com/dp/6303451462
+('robot check',)
+
+https://www.amazon.com/dp/B000EHPXP6
+('robot check',)
+
+https://www.amazon.com/dp/B001H20HKS
+('robot check',)
+
+https://www.amazon.com/dp/B0012FHGCW
+('robot check',)
+
+https://www.amazon.com/dp/B0001ZWY8A
+('robot check',)
+
+https://www.amazon.com/dp/B0000TFG8C
+('robot check',)
+
+https://www.amazon.com/dp/B000065U56
+('robot check',)
+
+https://www.amazon.com/dp/B00004TZTV
+('robot check',)
+
+https://www.amazon.com/dp/B001J697B2
+('robot check',)
+
+https://www.amazon.com/dp/B00018WMYI
+('robot check',)
+
+https://www.amazon.com/dp/B004S9KHBG
+('robot check',)
+
+https://www.amazon.com/dp/B00004D2ZY
+('robot check',)
+
+https://www.amazon.com/dp/B005P2BL6A
+('robot check',)
+
+https://www.amazon.com/dp/B002JUFPCW
+('robot check',)
+
+https://www.amazon.com/dp/B004S9KHBQ
+('robot check',)
+
+https://www.amazon.com/dp/B001UAH340
+('robot check',)
+
+999
+0.41783567134268534
+
+https://www.amazon.com/dp/6305506531
+('robot check',)
+
+https://www.amazon.com/dp/630354164X
+('robot check',)
+
+https://www.amazon.com/dp/6304753349
+('robot check',)
+
+https://www.amazon.com/dp/B004LJX0IU
+('robot check',)
+
+https://www.amazon.com/dp/B004R1428O
+('robot check',)
+
+https://www.amazon.com/dp/B004JJ2GJG
+('robot check',)
+
+https://www.amazon.com/dp/B00004I9Q1
+('robot check',)
+
+https://www.amazon.com/dp/6301507169
+('robot check',)
+
+https://www.amazon.com/dp/B005L4IH8M
+('robot check',)
+
+https://www.amazon.com/dp/B003E7EKSY
+('robot check',)
+
+https://www.amazon.com/dp/B000LC3IKG
+('robot check',)
+
+https://www.amazon.com/dp/6303005195
+('robot check',)
+
+https://www.amazon.com/dp/B000PDZS18
+('robot check',)
+
+https://www.amazon.com/dp/B000054OW5
+('robot check',)
+
+https://www.amazon.com/dp/B000054OW4
+('robot check',)
+
+https://www.amazon.com/dp/B0001M3XBA
+('robot check',)
+
+https://www.amazon.com/dp/B000054OW6
+('robot check',)
+
+https://www.amazon.com/dp/B000R7HY50
+('robot check',)
+
+https://www.amazon.com/dp/B001EHDSVG
+('robot check',)
+
+https://www.amazon.com/dp/B004JXMLX8
+('robot check',)
+
+https://www.amazon.com/dp/B0095V14TQ
+('robot check',)
+
+https://www.amazon.com/dp/B002ZNBMP2
+('robot check',)
+
+https://www.amazon.com/dp/B000054OWC
+('robot check',)
+
+https://www.amazon.com/dp/1572521252
+('robot check',)
+
+https://www.amazon.com/dp/B000R7HY5K
+('robot check',)
+
+https://www.amazon.com/dp/B0060D2Q9Y
+('robot check',)
+
+https://www.amazon.com/dp/B000054OWB
+('robot check',)
+
+1049
+0.4122137404580153
+
+https://www.amazon.com/dp/B00009W35Q
+('robot check',)
+
+https://www.amazon.com/dp/B00009W35L
+('robot check',)
+
+https://www.amazon.com/dp/6305812721
+('robot check',)
+
+https://www.amazon.com/dp/B00009W35O
+('robot check',)
+
+https://www.amazon.com/dp/B00009W35M
+('robot check',)
+
+https://www.amazon.com/dp/B005014GOK
+('robot check',)
+
+https://www.amazon.com/dp/B00062IVL2
+('robot check',)
+
+https://www.amazon.com/dp/B00009W35J
+('robot check',)
+
+https://www.amazon.com/dp/B00009W35G
+('robot check',)
+
+https://www.amazon.com/dp/0005166004
+('robot check',)
+
+https://www.amazon.com/dp/B006K4TS5S
+('robot check',)
+
+https://www.amazon.com/dp/B000PDZS1I
+('robot check',)
+
+https://www.amazon.com/dp/B000BO88UO
+('robot check',)
+
+https://www.amazon.com/dp/B002ZNJP5G
+('robot check',)
+
+https://www.amazon.com/dp/B003E7EKS4
+('robot check',)
+
+https://www.amazon.com/dp/B00009W35N
+('robot check',)
+
+https://www.amazon.com/dp/B0002DVA22
+('robot check',)
+
+https://www.amazon.com/dp/B00029RT2G
+('robot check',)
+
+https://www.amazon.com/dp/B002L2SD5E
+('robot check',)
+
+https://www.amazon.com/dp/B00004RJ7K
+('robot check',)
+
+https://www.amazon.com/dp/B004TGYHLY
+('robot check',)
+
+https://www.amazon.com/dp/B000FFJ81C
+('robot check',)
+
+https://www.amazon.com/dp/B000JU8H6K
+('robot check',)
+
+https://www.amazon.com/dp/B00004RJ7C
+('robot check',)
+
+https://www.amazon.com/dp/B00004RJ7H
+('robot check',)
+
+https://www.amazon.com/dp/B000006Q0L
+('robot check',)
+
+https://www.amazon.com/dp/0790740117
+('robot check',)
+
+https://www.amazon.com/dp/B0002VL06K
+('robot check',)
+
+https://www.amazon.com/dp/6301540441
+('robot check',)
+
+https://www.amazon.com/dp/B00029RT2Q
+('robot check',)
+
+https://www.amazon.com/dp/B003ID4YR6
+('robot check',)
+
+https://www.amazon.com/dp/B001HMFC4O
+('robot check',)
+
+https://www.amazon.com/dp/B008R6MKHA
+('robot check',)
+
+https://www.amazon.com/dp/B0013LRKUI
+('robot check',)
+
+https://www.amazon.com/dp/B00000JQ9X
+('robot check',)
+
+https://www.amazon.com/dp/B0000639I4
+('robot check',)
+
+https://www.amazon.com/dp/B0000639I6
+('robot check',)
+
+https://www.amazon.com/dp/B001DZOD7C
+('robot check',)
+
+https://www.amazon.com/dp/B00000JQ9T
+('robot check',)
+
+https://www.amazon.com/dp/B001ECO2I4
+('robot check',)
+
+https://www.amazon.com/dp/B001UN1KXW
+('robot check',)
+
+https://www.amazon.com/dp/B0013LRKUS
+('robot check',)
+
+https://www.amazon.com/dp/B002W3EJ32
+('robot check',)
+
+https://www.amazon.com/dp/B00005MNI6
+('robot check',)
+
+https://www.amazon.com/dp/B0000639IH
+('robot check',)
+
+https://www.amazon.com/dp/B0013LL2Z2
+('robot check',)
+
+https://www.amazon.com/dp/B0000639IC
+('robot check',)
+
+https://www.amazon.com/dp/B0000639IJ
+('robot check',)
+
+https://www.amazon.com/dp/B0000639IN
+('robot check',)
+
+https://www.amazon.com/dp/B0000DZTN8
+('robot check',)
+
+1099
+0.40437158469945356
+
+https://www.amazon.com/dp/B0000639IU
+('robot check',)
+
+https://www.amazon.com/dp/B0013LRKU8
+('robot check',)
+
+https://www.amazon.com/dp/B004T7HSQO
+('robot check',)
+
+https://www.amazon.com/dp/B0035I822M
+('robot check',)
+
+https://www.amazon.com/dp/B00000JQ9V
+('robot check',)
+
+https://www.amazon.com/dp/B000AQKV7Q
+('robot check',)
+
+https://www.amazon.com/dp/B009K1AWIU
+('robot check',)
+
+https://www.amazon.com/dp/B00005B22G
+('robot check',)
+
+https://www.amazon.com/dp/0783228015
+('robot check',)
+
+https://www.amazon.com/dp/B0011NVC3O
+('robot check',)
+
+https://www.amazon.com/dp/B0009RQS7I
+('robot check',)
+
+https://www.amazon.com/dp/B004ZGZVRM
+('robot check',)
+
+https://www.amazon.com/dp/B00004RJ74
+('robot check',)
+
+https://www.amazon.com/dp/B00000JQ91
+('robot check',)
+
+https://www.amazon.com/dp/B0002VL060
+('robot check',)
+
+https://www.amazon.com/dp/B00004RJ71
+('robot check',)
+
+https://www.amazon.com/dp/B000ICXQT2
+('robot check',)
+
+https://www.amazon.com/dp/B00004RJ73
+('robot check',)
+
+https://www.amazon.com/dp/B000LJL61W
+('404 Client Error: Not Found for url: https://www.amazon.com/dp/B000LJL61W',)
+
+https://www.amazon.com/dp/B0009RQS7S
+('robot check',)
+
+https://www.amazon.com/dp/B005M2AKJ2
+('robot check',)
+
+https://www.amazon.com/dp/B0009O1HAY
+('robot check',)
+
+https://www.amazon.com/dp/B0010Z642C
+('robot check',)
+
+https://www.amazon.com/dp/B0002HVDU2
+('robot check',)
+
+https://www.amazon.com/dp/B001OMV9U8
+('robot check',)
+
+https://www.amazon.com/dp/B000C102CI
+('robot check',)
+
+https://www.amazon.com/dp/B0055IU3GI
+('robot check',)
+
+https://www.amazon.com/dp/B000CNGBYY
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAQ
+('robot check',)
+
+https://www.amazon.com/dp/B003HNNEUA
+('robot check',)
+
+https://www.amazon.com/dp/B00009MGEN
+('robot check',)
+
+https://www.amazon.com/dp/B003FXXO8O
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAY
+('robot check',)
+
+https://www.amazon.com/dp/B000EOTENQ
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAZ
+('robot check',)
+
+https://www.amazon.com/dp/B00009MGEM
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAX
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAU
+('robot check',)
+
+https://www.amazon.com/dp/B001OBN060
+('robot check',)
+
+https://www.amazon.com/dp/B002MOJW1U
+('robot check',)
+
+https://www.amazon.com/dp/B005S97V82
+('robot check',)
+
+https://www.amazon.com/dp/B000FBCE80
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAG
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAB
+('robot check',)
+
+https://www.amazon.com/dp/B008I34YEE
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAE
+('robot check',)
+
+https://www.amazon.com/dp/6304411480
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAI
+('robot check',)
+
+1149
+0.40069686411149824
+
+https://www.amazon.com/dp/B00004CYAH
+('robot check',)
+
+https://www.amazon.com/dp/B000GT7XXW
+('robot check',)
+
+https://www.amazon.com/dp/B0043RIOZ4
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYA3
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYAO
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYA0
+('robot check',)
+
+https://www.amazon.com/dp/B000AQ6A4E
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYA4
+('robot check',)
+
+https://www.amazon.com/dp/B00004ZEPQ
+('robot check',)
+
+https://www.amazon.com/dp/1563716674
+('robot check',)
+
+https://www.amazon.com/dp/B00004CYA7
+('robot check',)
+
+https://www.amazon.com/dp/B00004YA4K
+('robot check',)
+
+https://www.amazon.com/dp/B003B2UJYQ
+('robot check',)
+
+https://www.amazon.com/dp/B00185P8HQ
+('robot check',)
+
+https://www.amazon.com/dp/B001O510ZO
+('robot check',)
+
+https://www.amazon.com/dp/B003GXAN82
+('robot check',)
+
+https://www.amazon.com/dp/B00079ZAD6
+('robot check',)
+
+https://www.amazon.com/dp/B000WPGVGA
+('robot check',)
+
+https://www.amazon.com/dp/6302703050
+('robot check',)
+
+https://www.amazon.com/dp/B000GI3RJW
+('robot check',)
+
+https://www.amazon.com/dp/B000VG4BTY
+('robot check',)
+
+https://www.amazon.com/dp/B0030Y3QFY
+('robot check',)
+
+https://www.amazon.com/dp/0800187938
+('robot check',)
+
+https://www.amazon.com/dp/6301934156
+('robot check',)
+
+https://www.amazon.com/dp/B000QJMDLY
+('robot check',)
+
+https://www.amazon.com/dp/6304925085
+('robot check',)
+
+https://www.amazon.com/dp/B002WV6Y0U
+('robot check',)
+
+https://www.amazon.com/dp/B0001EQI38
+('robot check',)
+
+https://www.amazon.com/dp/B004ZTLNSA
+('robot check',)
+
+https://www.amazon.com/dp/B0016GONDW
+('robot check',)
+
+https://www.amazon.com/dp/B00004CPZQ
+('robot check',)
+
+https://www.amazon.com/dp/6302627001
+('robot check',)
+
+https://www.amazon.com/dp/B004GV9B3G
+('robot check',)
+
+https://www.amazon.com/dp/B000Z818NA
+('robot check',)
+
+https://www.amazon.com/dp/0767824016
+('robot check',)
+
+https://www.amazon.com/dp/B004TTOQH6
+('robot check',)
+
+https://www.amazon.com/dp/B000VPKIRE
+('robot check',)
+
+https://www.amazon.com/dp/B000B8IAC6
+('robot check',)
+
+https://www.amazon.com/dp/B008TYX24U
+('robot check',)
+
+https://www.amazon.com/dp/B007SZDAYI
+('robot check',)
+
+https://www.amazon.com/dp/B003XTUAOG
+('robot check',)
+
+https://www.amazon.com/dp/B001NVFU3W
+('robot check',)
+
+https://www.amazon.com/dp/B0009P5QRI
+('robot check',)
+
+https://www.amazon.com/dp/B008A1TR4Q
+('robot check',)
+
+https://www.amazon.com/dp/B003L16FAE
+('robot check',)
+
+https://www.amazon.com/dp/B00008T2NA
+('robot check',)
+
+https://www.amazon.com/dp/6303934110
+('robot check',)
+
+https://www.amazon.com/dp/6305943591
+('robot check',)
+
+https://www.amazon.com/dp/B000AE8KWQ
+('robot check',)
+
+https://www.amazon.com/dp/0738921440
+('robot check',)
+
+https://www.amazon.com/dp/B00005Y7TN
+('robot check',)
+
+https://www.amazon.com/dp/B002SIZ0SY
+('robot check',)
+
+https://www.amazon.com/dp/B000051S2P
+('robot check',)
+
+https://www.amazon.com/dp/B0085X315A
+('robot check',)
+
+https://www.amazon.com/dp/B0002ERXB8
+('robot check',)
+
+https://www.amazon.com/dp/B007FQDO14
+('robot check',)
+
+https://www.amazon.com/dp/6303398634
+('robot check',)
+
+https://www.amazon.com/dp/B005G7WGHC
+('robot check',)
+
+https://www.amazon.com/dp/B001RNP3EW
+('robot check',)
+
+https://www.amazon.com/dp/630170648X
+('robot check',)
+
+https://www.amazon.com/dp/B0001US7Z4
+('robot check',)
+
+https://www.amazon.com/dp/B004C7XX2Y
+('robot check',)
+
+1199
+0.38981636060100167
+
+https://www.amazon.com/dp/6304200102
+('robot check',)
+
+https://www.amazon.com/dp/B00576U9I0
+('robot check',)
+
+https://www.amazon.com/dp/B0069556TU
+('robot check',)
+
+https://www.amazon.com/dp/B0006N5H68
+('robot check',)
+
+https://www.amazon.com/dp/B0007989ZC
+('robot check',)
+
+https://www.amazon.com/dp/B002MIK0SK
+('robot check',)
+
+https://www.amazon.com/dp/B00429C1QQ
+('robot check',)
+
+https://www.amazon.com/dp/630440459X
+('robot check',)
+
+https://www.amazon.com/dp/B001IWWV9M
+('robot check',)
+
+https://www.amazon.com/dp/B004BUUPGE
+('robot check',)
+
+https://www.amazon.com/dp/B0001EQI3I
+('robot check',)
+
+https://www.amazon.com/dp/B002A00J18
+('robot check',)
+
+https://www.amazon.com/dp/B001UHLNY4
+('robot check',)
+
+https://www.amazon.com/dp/6303203302
+('robot check',)
+
+https://www.amazon.com/dp/B007QAGFGA
+('robot check',)
+
+https://www.amazon.com/dp/B000IYUD96
+('robot check',)
+
+https://www.amazon.com/dp/B0033G9OBO
+('robot check',)
+
+https://www.amazon.com/dp/B000EGZ5K0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000X7SMK
+('robot check',)
+
+https://www.amazon.com/dp/B0000X7SMA
+('robot check',)
+
+https://www.amazon.com/dp/B0049HOVDW
+('robot check',)
+
+https://www.amazon.com/dp/B0002A2W4U
+('robot check',)
+
+https://www.amazon.com/dp/B008OML4KQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000RW3YNQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00500Y7S6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002W12O4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002A97JBM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000U0GN6
+('robot check',)
+
+https://www.amazon.com/dp/6301395859
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000UX6TJI
+('robot check',)
+
+https://www.amazon.com/dp/B0001Z36Y6
+('robot check',)
+
+https://www.amazon.com/dp/B001GGX9R8
+('robot check',)
+
+https://www.amazon.com/dp/B000VZK3LU
+('robot check',)
+
+https://www.amazon.com/dp/B007WWRJA8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6304312180
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+1249
+0.3782051282051282
+
+https://www.amazon.com/dp/B004X63S9M
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/6305503362
+('robot check',)
+
+https://www.amazon.com/dp/B00015HVLA
+('robot check',)
+
+https://www.amazon.com/dp/B000UX6TJ8
+('robot check',)
+
+https://www.amazon.com/dp/B003QLECZY
+('robot check',)
+
+https://www.amazon.com/dp/B005X5ERBK
+('robot check',)
+
+https://www.amazon.com/dp/6305807787
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003U657SG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001KWTBTS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004FHUZR2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUL
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUN
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUO
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000U0GNG
+('robot check',)
+
+https://www.amazon.com/dp/B0013Z6SY8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6302033942
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00668IE9O
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00014NEF8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002NXST46
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000E3LGI8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002HODEA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004SAP738
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6304204906
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00014NEFI
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002HODE0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000E3LGII
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+1299
+0.3674884437596302
+
+https://www.amazon.com/dp/0966182219
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0013Z6SYS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00013D4UY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004H83INM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006T6E3T8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B007VQE7IC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000TP5T4I
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000JRYOMY
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYUV
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYUU
+('robot check',)
+
+https://www.amazon.com/dp/B005M2AKJC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0021UDX8I
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYUW
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYU4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYU5
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUP
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYU6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B008IG0E3Q
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUR
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYU2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000JRYOMO
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303566839
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYU8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/0792147340
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/1564427307
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002ZVIKQ8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6301730046
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000W4TGIQ
+('robot check',)
+
+https://www.amazon.com/dp/B000JM65Y4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUT
+('robot check',)
+
+https://www.amazon.com/dp/B004MWSUXG
+('robot check',)
+
+https://www.amazon.com/dp/B000077VT2
+('robot check',)
+
+https://www.amazon.com/dp/B005IW503M
+('robot check',)
+
+https://www.amazon.com/dp/B002ICBYLC
+('robot check',)
+
+https://www.amazon.com/dp/B00007D00K
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYUX
+('robot check',)
+
+https://www.amazon.com/dp/B000BQ5J1I
+('robot check',)
+
+https://www.amazon.com/dp/6305128952
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0095XD18G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RPUX
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004PXJZNG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000057PKH
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000057PKJ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000GI3KKS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUI
+('robot check',)
+
+https://www.amazon.com/dp/B00008L3ZX
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUK
+('robot check',)
+
+https://www.amazon.com/dp/B004UR1VFW
+('robot check',)
+
+https://www.amazon.com/dp/B00008T4M6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+1349
+0.3545994065281899
+
+https://www.amazon.com/dp/B008AN8XNA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYUJ
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYUZ
+('robot check',)
+
+https://www.amazon.com/dp/B00004RYUY
+('robot check',)
+
+https://www.amazon.com/dp/6305650594
+('robot check',)
+
+https://www.amazon.com/dp/B0002OXV2I
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003L77GLU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B007JC63F8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002YKMHNW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004R674
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00004R674 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/6301400879
+('robot check',)
+
+https://www.amazon.com/dp/B000BJNUKW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002I8480
+('robot check',)
+
+https://www.amazon.com/dp/B00004RMQR
+('robot check',)
+
+https://www.amazon.com/dp/B004IOS16O
+('robot check',)
+
+https://www.amazon.com/dp/B0024RI6U8
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out. (read timeout=10)",),)
+
+https://www.amazon.com/dp/B0000U0X2A
+('robot check',)
+
+https://www.amazon.com/dp/630443720X
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000BJNUK2
+('robot check',)
+
+https://www.amazon.com/dp/B0043AQ0FW
+('robot check',)
+
+https://www.amazon.com/dp/B0000U0X2K
+('robot check',)
+
+1399
+0.3440629470672389
+
+https://www.amazon.com/dp/B00004R673
+('robot check',)
+
+https://www.amazon.com/dp/B00004R675
+('robot check',)
+
+https://www.amazon.com/dp/B001NTDR16
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001U1RM3G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000WGLAK6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000MM0LH8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004QFS4S0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006GV73KW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00062IYUA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/1570763526
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00005BGNJ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/630394163X
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6305841225
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000OC7D4A
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303281168
+('robot check',)
+
+https://www.amazon.com/dp/0982449232
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001O53ZGQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0046C9AN6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002DYKPF6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004R677
+('robot check',)
+
+https://www.amazon.com/dp/B00008V5UP
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6301278402
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002SUDU48
+('robot check',)
+
+https://www.amazon.com/dp/B002N8YL3Y
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00008V5UT
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00008V5UU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000AOWNJ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004R679
+('robot check',)
+
+https://www.amazon.com/dp/B000MV8H2K
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003AJGXGS
+('robot check',)
+
+https://www.amazon.com/dp/1596685751
+('robot check',)
+
+https://www.amazon.com/dp/B00004R672
+('robot check',)
+
+https://www.amazon.com/dp/B000FJH5G8
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out. (read timeout=10)",),)
+
+https://www.amazon.com/dp/B004R6RSNU
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIFM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001AD8FHG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6302371716
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004DC802Q
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000AOWNX
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002G8249Y
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0006A9IJS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/630179012X
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303864694
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00376629W
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000E3LD7W
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001AZ5ISS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000NQQ4LU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0070I7QGG
+('robot check',)
+
+https://www.amazon.com/dp/B00008V5U6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6305502420
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000E3LD7M
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000AOWN4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003Y5H4RA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000AOWN6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00000JKWE
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00005BGNA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00066ITV0
+('robot check',)
+
+https://www.amazon.com/dp/B0000AOWN9
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001992NW4
+('robot check',)
+
+https://www.amazon.com/dp/B0009AK57Y
+('robot check',)
+
+https://www.amazon.com/dp/B00328HS6G
+('robot check',)
+
+https://www.amazon.com/dp/B00004R67R
+('robot check',)
+
+https://www.amazon.com/dp/B000VYM3X2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000BJNUKC
+('robot check',)
+
+https://www.amazon.com/dp/B000053V1P
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006MGTIC2
+('robot check',)
+
+https://www.amazon.com/dp/6301556941
+('robot check',)
+
+https://www.amazon.com/dp/B001AP33SA
+('robot check',)
+
+https://www.amazon.com/dp/B004YCKJMY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/1934032662
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/1934032662 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B001NTDR1Q
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000R349ES
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0056XCCYI
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003Y17K78
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B003Y17K78 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/6305086303
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000TK56W8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004R67P
+('robot check',)
+
+https://www.amazon.com/dp/B0002CR0EU
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004R67Z
+('robot check',)
+
+https://www.amazon.com/dp/B0035LSXDW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000WGLAKQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004R67B
+('robot check',)
+
+https://www.amazon.com/dp/B00004R67I
+('robot check',)
+
+https://www.amazon.com/dp/B004HQHF60
+('robot check',)
+
+1449
+0.3335635359116022
+
+https://www.amazon.com/dp/B00005BGNN
+('robot check',)
+
+https://www.amazon.com/dp/B0002ABUSY
+('robot check',)
+
+https://www.amazon.com/dp/B00004R67E
+('robot check',)
+
+https://www.amazon.com/dp/B00331RHG8
+('robot check',)
+
+https://www.amazon.com/dp/B002VW9XO4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303415571
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out. (read timeout=10)",),)
+
+https://www.amazon.com/dp/B002KGREJC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6305650683
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/0780621905
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000007P4D
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004Q2TWR0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000007P4G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6301696743
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B008578H9G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6302111358
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006CAXPFE
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303544444
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0023W1M4G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002P7UCBI
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003ZIXNZS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B007K36AUY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0001IXTOA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000WCU7NQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000ABSA8S
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000056N8B
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002LKHTE2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003CXP5QG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000SW4DQC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000Q7ZKVG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001O4PVXW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00606UPFS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000SW4DQW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004RYEH
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000KF0NPW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0009X5800
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003ZIXNZ8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004U8VQG0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000Q7ZKVQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0028S7SPC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0001RKHVE
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0072KZ0Z6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00157UJWG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B005SYZZ80
+('robot check',)
+
+https://www.amazon.com/dp/B000R349EI
+('robot check',)
+
+1499
+0.3251001335113485
+
+https://www.amazon.com/dp/B00720ONK4
+('robot check',)
+
+https://www.amazon.com/dp/B0000633SV
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000UUK13Q
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0030HQIZG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B009NX7Y7M
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00147AJ9U
+('robot check',)
+
+https://www.amazon.com/dp/B0007TKGHG
+('robot check',)
+
+https://www.amazon.com/dp/6302952565
+('robot check',)
+
+https://www.amazon.com/dp/B000NMY7CM
+('robot check',)
+
+https://www.amazon.com/dp/B00004XMRY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000ELL1R6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00005BGNY
+('robot check',)
+
+https://www.amazon.com/dp/6303085547
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0085QJ20K
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00009RBJ5
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004CIE4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00007CVT4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00009RBJ2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00007CVT7
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0007KIFSM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000AEZU2O
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002XNEIJ6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000EU1Q36
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B004SUDQ40
+('robot check',)
+
+https://www.amazon.com/dp/B0053TWVA0
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0083H6B0U
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000633SI
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303430570
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003K98HLM
+('robot check',)
+
+https://www.amazon.com/dp/B0012U34NC
+('robot check',)
+
+https://www.amazon.com/dp/B0001DCXT2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000EU1Q3G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B008VPCL6M
+('robot check',)
+
+https://www.amazon.com/dp/B002KGREJW
+('robot check',)
+
+https://www.amazon.com/dp/6304960670
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003AVGMV2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+1549
+0.3152454780361757
+
+https://www.amazon.com/dp/0792165195
+('robot check',)
+
+https://www.amazon.com/dp/B005WTG698
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003DVB7BY
+('robot check',)
+
+https://www.amazon.com/dp/B000PKG8WO
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0000633SP
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B0000633SP (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B00004RVRO
+('robot check',)
+
+https://www.amazon.com/dp/B001ED3JHI
+('robot check',)
+
+https://www.amazon.com/dp/6302420458
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/6302420458 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/630558785X
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/630558785X (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B004RE29T0
+('robot check',)
+
+https://www.amazon.com/dp/B0000C66BC
+('robot check',)
+
+https://www.amazon.com/dp/B000MMMT7S
+('robot check',)
+
+https://www.amazon.com/dp/B0057LODTQ
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B0057LODTQ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000UFIYOY
+('robot check',)
+
+https://www.amazon.com/dp/630267686X
+('robot check',)
+
+https://www.amazon.com/dp/B00067WSWK
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVT6
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVT9
+('robot check',)
+
+https://www.amazon.com/dp/B0002TSYCA
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIEB
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVTB
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVTF
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVTA
+('robot check',)
+
+https://www.amazon.com/dp/B0017ANAZO
+('robot check',)
+
+https://www.amazon.com/dp/B00189CZMI
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVTD
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y87P
+('robot check',)
+
+https://www.amazon.com/dp/B00004RVRP
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVTR
+('robot check',)
+
+https://www.amazon.com/dp/B001989ZFI
+('robot check',)
+
+https://www.amazon.com/dp/B005KSW5PA
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIEV
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIET
+('robot check',)
+
+https://www.amazon.com/dp/B00005QB8Z
+('robot check',)
+
+https://www.amazon.com/dp/B002ZP2SK8
+('robot check',)
+
+https://www.amazon.com/dp/6302054427
+('robot check',)
+
+1599
+0.31101376720901125
+
+https://www.amazon.com/dp/B005VU9LUE
+('robot check',)
+
+https://www.amazon.com/dp/B000PKG8WE
+('robot check',)
+
+https://www.amazon.com/dp/B002I41KX2
+('robot check',)
+
+https://www.amazon.com/dp/B0002I848K
+('robot check',)
+
+https://www.amazon.com/dp/B004P8R9IO
+('robot check',)
+
+https://www.amazon.com/dp/B003NLE5JK
+('robot check',)
+
+https://www.amazon.com/dp/B004P8R9IE
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIEN
+('robot check',)
+
+https://www.amazon.com/dp/B003NLE5JU
+('robot check',)
+
+https://www.amazon.com/dp/B00070M0M4
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIEH
+('robot check',)
+
+https://www.amazon.com/dp/B006H9NLGS
+('robot check',)
+
+https://www.amazon.com/dp/B003NLE5JA
+('robot check',)
+
+https://www.amazon.com/dp/6302888255
+('robot check',)
+
+https://www.amazon.com/dp/B002CFF33U
+('robot check',)
+
+https://www.amazon.com/dp/B008N8A40C
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVT0
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00007CVT0 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000I2JDFS
+('robot check',)
+
+https://www.amazon.com/dp/6305167834
+('robot check',)
+
+https://www.amazon.com/dp/B0012YN59G
+('robot check',)
+
+https://www.amazon.com/dp/6303585760
+('robot check',)
+
+https://www.amazon.com/dp/B004XYOQU4
+('robot check',)
+
+https://www.amazon.com/dp/B00473YW14
+('robot check',)
+
+https://www.amazon.com/dp/B002QZDX2Y
+('robot check',)
+
+https://www.amazon.com/dp/B006P4GOYG
+('robot check',)
+
+https://www.amazon.com/dp/B00007CVT8
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00007CVT8 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000162ZNS
+('robot check',)
+
+https://www.amazon.com/dp/B0055XCGWW
+('robot check',)
+
+https://www.amazon.com/dp/0783236336
+('robot check',)
+
+https://www.amazon.com/dp/B004X9LNAU
+('robot check',)
+
+https://www.amazon.com/dp/6302342090
+('robot check',)
+
+https://www.amazon.com/dp/0790742322
+('robot check',)
+
+https://www.amazon.com/dp/B001KV33VQ
+('robot check',)
+
+https://www.amazon.com/dp/B000I2JDFI
+('robot check',)
+
+https://www.amazon.com/dp/B0002VEVR0
+('robot check',)
+
+https://www.amazon.com/dp/B005IQ6H9E
+('robot check',)
+
+https://www.amazon.com/dp/B000NNUWXY
+('robot check',)
+
+https://www.amazon.com/dp/0967664705
+('robot check',)
+
+https://www.amazon.com/dp/B0001NBLSQ
+('robot check',)
+
+https://www.amazon.com/dp/B000006PE3
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y5RB
+('robot check',)
+
+https://www.amazon.com/dp/B000059XZX
+('robot check',)
+
+1649
+0.3270631067961165
+
+1699
+0.31802120141342755
+
+https://www.amazon.com/dp/B000059XZM
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y3Q9
+('robot check',)
+
+https://www.amazon.com/dp/B000T4SX2Y
+(SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),),)
+
+https://www.amazon.com/dp/B0001C9YRC
+('robot check',)
+
+https://www.amazon.com/dp/B000E5N68E
+('robot check',)
+
+https://www.amazon.com/dp/B000059XZT
+('robot check',)
+
+https://www.amazon.com/dp/B001IN6MQ4
+('robot check',)
+
+https://www.amazon.com/dp/B005JPTE9Y
+('robot check',)
+
+https://www.amazon.com/dp/B0065VN99M
+('robot check',)
+
+https://www.amazon.com/dp/B004LWL0OS
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B0084CAU10
+('robot check',)
+
+https://www.amazon.com/dp/B000CCBCIK
+('robot check',)
+
+https://www.amazon.com/dp/B000IY06RA
+('robot check',)
+
+https://www.amazon.com/dp/6300255530
+('robot check',)
+
+https://www.amazon.com/dp/B005DWA9WY
+('robot check',)
+
+https://www.amazon.com/dp/B001O4C6PS
+('robot check',)
+
+https://www.amazon.com/dp/B000CCBCIA
+('robot check',)
+
+https://www.amazon.com/dp/B00004X0V1
+('robot check',)
+
+https://www.amazon.com/dp/B000HPJHDE
+(SSLError(SSLError("bad handshake: SysCallError(10053, 'WSAECONNABORTED')",),),)
+
+https://www.amazon.com/dp/B00004X0V0
+('robot check',)
+
+https://www.amazon.com/dp/B0009HMTFS
+('robot check',)
+
+https://www.amazon.com/dp/B0000687F8
+('robot check',)
+
+https://www.amazon.com/dp/6306013156
+('robot check',)
+
+https://www.amazon.com/dp/B00004CQ8C
+('robot check',)
+
+https://www.amazon.com/dp/B00004VZFB
+('robot check',)
+
+https://www.amazon.com/dp/B00062IEUA
+('robot check',)
+
+https://www.amazon.com/dp/B002GOAGW0
+('robot check',)
+
+https://www.amazon.com/dp/B00004CQ8J
+('robot check',)
+
+https://www.amazon.com/dp/B00004VZFQ
+('robot check',)
+
+https://www.amazon.com/dp/B004F79J24
+('robot check',)
+
+https://www.amazon.com/dp/B00004CQ85
+('robot check',)
+
+https://www.amazon.com/dp/B0012NO92O
+('robot check',)
+
+https://www.amazon.com/dp/B007K8BDMY
+('robot check',)
+
+https://www.amazon.com/dp/B000CCBCIU
+('robot check',)
+
+https://www.amazon.com/dp/B004QR731M
+('robot check',)
+
+https://www.amazon.com/dp/B00004CQ81
+('robot check',)
+
+https://www.amazon.com/dp/B004FPXMBU
+('robot check',)
+
+https://www.amazon.com/dp/B001PI97C8
+('robot check',)
+
+https://www.amazon.com/dp/B007SSEYTA
+('robot check',)
+
+https://www.amazon.com/dp/6303278736
+('robot check',)
+
+https://www.amazon.com/dp/B006U5SHL8
+('robot check',)
+
+https://www.amazon.com/dp/B00005UBMG
+('robot check',)
+
+https://www.amazon.com/dp/B00267N3DQ
+('robot check',)
+
+https://www.amazon.com/dp/6301279654
+('robot check',)
+
+https://www.amazon.com/dp/B000JJ4WHO
+('robot check',)
+
+https://www.amazon.com/dp/B00004X0VA
+('robot check',)
+
+https://www.amazon.com/dp/B00004X0VW
+('robot check',)
+
+https://www.amazon.com/dp/B0009HMTF8
+('robot check',)
+
+https://www.amazon.com/dp/B000EHSVNC
+('robot check',)
+
+https://www.amazon.com/dp/B00365QSEI
+('robot check',)
+
+https://www.amazon.com/dp/B00004X0VP
+('robot check',)
+
+https://www.amazon.com/dp/B0001ZDL5U
+('robot check',)
+
+https://www.amazon.com/dp/B003KI8ML8
+('robot check',)
+
+https://www.amazon.com/dp/B000XYADKA
+('robot check',)
+
+https://www.amazon.com/dp/B00023P456
+('robot check',)
+
+https://www.amazon.com/dp/B0008ENHUS
+('robot check',)
+
+https://www.amazon.com/dp/B0001ZDL5K
+('robot check',)
+
+https://www.amazon.com/dp/6304210043
+('robot check',)
+
+https://www.amazon.com/dp/B006QKJ4RI
+('robot check',)
+
+https://www.amazon.com/dp/6305502161
+('robot check',)
+
+https://www.amazon.com/dp/B001D7T45G
+('robot check',)
+
+https://www.amazon.com/dp/B001D7T45Q
+('robot check',)
+
+https://www.amazon.com/dp/B00000G3IA
+('robot check',)
+
+https://www.amazon.com/dp/B00000FAM3
+('robot check',)
+
+https://www.amazon.com/dp/B00005B723
+('robot check',)
+
+https://www.amazon.com/dp/B002QQFTHA
+('robot check',)
+
+https://www.amazon.com/dp/B0082CEA8Q
+('robot check',)
+
+https://www.amazon.com/dp/1591451981
+('robot check',)
+
+https://www.amazon.com/dp/B0002DB4YQ
+('robot check',)
+
+https://www.amazon.com/dp/6302948436
+('robot check',)
+
+https://www.amazon.com/dp/B0012IWNSG
+('robot check',)
+
+https://www.amazon.com/dp/B001NHO7IA
+('robot check',)
+
+https://www.amazon.com/dp/B000JVT074
+('robot check',)
+
+1749
+0.30892448512585813
+
+https://www.amazon.com/dp/6302973457
+('robot check',)
+
+https://www.amazon.com/dp/6302786770
+('robot check',)
+
+https://www.amazon.com/dp/B004ATEMR4
+('robot check',)
+
+https://www.amazon.com/dp/B001B187H0
+('robot check',)
+
+https://www.amazon.com/dp/B000QQJOGE
+('robot check',)
+
+https://www.amazon.com/dp/B00023JH86
+('robot check',)
+
+https://www.amazon.com/dp/B0038P1D0K
+('robot check',)
+
+https://www.amazon.com/dp/B000YDKA5S
+('robot check',)
+
+https://www.amazon.com/dp/B00005B72H
+('robot check',)
+
+https://www.amazon.com/dp/B001TIQUOM
+('robot check',)
+
+https://www.amazon.com/dp/B00005B72I
+('robot check',)
+
+https://www.amazon.com/dp/B002SECAIQ
+('robot check',)
+
+https://www.amazon.com/dp/B00000I86K
+('robot check',)
+
+https://www.amazon.com/dp/B002WCCK0W
+('robot check',)
+
+https://www.amazon.com/dp/B0072A4I2W
+('robot check',)
+
+https://www.amazon.com/dp/6303626440
+('robot check',)
+
+https://www.amazon.com/dp/6304682670
+('robot check',)
+
+https://www.amazon.com/dp/B000AO88QO
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00005B72Y
+('robot check',)
+
+https://www.amazon.com/dp/B001ARDC0C
+('robot check',)
+
+https://www.amazon.com/dp/B000T4SX24
+('robot check',)
+
+https://www.amazon.com/dp/B001E181XC
+('robot check',)
+
+https://www.amazon.com/dp/6304863586
+('robot check',)
+
+https://www.amazon.com/dp/B005MTHRGO
+('robot check',)
+
+https://www.amazon.com/dp/B0006J240Y
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y3Q7
+('robot check',)
+
+https://www.amazon.com/dp/B005R73666
+('robot check',)
+
+https://www.amazon.com/dp/B00008L3SN
+('robot check',)
+
+https://www.amazon.com/dp/B005E7AOPK
+('robot check',)
+
+https://www.amazon.com/dp/B004EI2NUO
+('robot check',)
+
+https://www.amazon.com/dp/B000CEXF6A
+('robot check',)
+
+https://www.amazon.com/dp/B001NFK5F6
+('robot check',)
+
+https://www.amazon.com/dp/B000CEXF6K
+('robot check',)
+
+https://www.amazon.com/dp/B0070XUNEI
+('robot check',)
+
+https://www.amazon.com/dp/B001E181XW
+('robot check',)
+
+https://www.amazon.com/dp/B000KGGZU8
+('robot check',)
+
+https://www.amazon.com/dp/B000AB0Z2M
+('robot check',)
+
+https://www.amazon.com/dp/6303144128
+('robot check',)
+
+https://www.amazon.com/dp/B004ATEMRE
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.",),)
+
+https://www.amazon.com/dp/B0000Z0H94
+('robot check',)
+
+https://www.amazon.com/dp/B008N0F3M4
+('robot check',)
+
+https://www.amazon.com/dp/B002NLXCWM
+('robot check',)
+
+https://www.amazon.com/dp/6305081891
+('robot check',)
+
+https://www.amazon.com/dp/B000CEXF6U
+('robot check',)
+
+https://www.amazon.com/dp/B00005B72D
+('robot check',)
+
+https://www.amazon.com/dp/6302874483
+('robot check',)
+
+https://www.amazon.com/dp/B00008T2HA
+('robot check',)
+
+https://www.amazon.com/dp/B000056HEA
+('robot check',)
+
+https://www.amazon.com/dp/B0001CNQQ2
+('robot check',)
+
+https://www.amazon.com/dp/B0006A9ISY
+('robot check',)
+
+https://www.amazon.com/dp/B000FQISGM
+('robot check',)
+
+1799
+0.3053392658509455
+
+https://www.amazon.com/dp/B000CEXF60
+('robot check',)
+
+https://www.amazon.com/dp/B002EZLQ0W
+('robot check',)
+
+https://www.amazon.com/dp/6305260591
+('robot check',)
+
+https://www.amazon.com/dp/B00008T2H9
+('robot check',)
+
+https://www.amazon.com/dp/B0001BMM2C
+('robot check',)
+
+https://www.amazon.com/dp/B000ATYNY0
+('robot check',)
+
+https://www.amazon.com/dp/B001AIQ14A
+('robot check',)
+
+https://www.amazon.com/dp/B00008L3SE
+('robot check',)
+
+https://www.amazon.com/dp/B000W0C1M8
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out. (read timeout=10)",),)
+
+https://www.amazon.com/dp/B000EWBO90
+('robot check',)
+
+https://www.amazon.com/dp/B004U40NBS
+('robot check',)
+
+https://www.amazon.com/dp/B000JJSKU4
+('robot check',)
+
+https://www.amazon.com/dp/630519081X
+('robot check',)
+
+https://www.amazon.com/dp/B0082SIM9S
+('robot check',)
+
+https://www.amazon.com/dp/B000UUX2JG
+('robot check',)
+
+https://www.amazon.com/dp/B001E181X2
+('robot check',)
+
+https://www.amazon.com/dp/B0000646UT
+('robot check',)
+
+https://www.amazon.com/dp/B0000646UP
+('robot check',)
+
+https://www.amazon.com/dp/B000BNC3GK
+('robot check',)
+
+https://www.amazon.com/dp/B0000646UI
+('robot check',)
+
+https://www.amazon.com/dp/B0000646UJ
+('robot check',)
+
+1849
+0.30627705627705626
+
+https://www.amazon.com/dp/B000UUX2JQ
+('robot check',)
+
+https://www.amazon.com/dp/B008WJ4HXW
+('robot check',)
+
+https://www.amazon.com/dp/B000F0V0OA
+('robot check',)
+
+https://www.amazon.com/dp/B007F4SDIU
+('robot check',)
+
+https://www.amazon.com/dp/B00013RCFM
+('robot check',)
+
+https://www.amazon.com/dp/6302121930
+('robot check',)
+
+https://www.amazon.com/dp/B0006A9ISE
+('robot check',)
+
+https://www.amazon.com/dp/B0012JG19C
+('robot check',)
+
+https://www.amazon.com/dp/B005MTHRG4
+('robot check',)
+
+https://www.amazon.com/dp/B00004CIH2
+('robot check',)
+
+https://www.amazon.com/dp/B009QW7HMC
+('robot check',)
+
+https://www.amazon.com/dp/6303614329
+('robot check',)
+
+https://www.amazon.com/dp/B000WDTO1Q
+('robot check',)
+
+https://www.amazon.com/dp/B005DWBB80
+('robot check',)
+
+https://www.amazon.com/dp/B00798MFA4
+('robot check',)
+
+https://www.amazon.com/dp/B001D0BLRW
+('robot check',)
+
+https://www.amazon.com/dp/B001736FN0
+('robot check',)
+
+https://www.amazon.com/dp/B000BITUZ2
+('robot check',)
+
+https://www.amazon.com/dp/B0058TNTCE
+('robot check',)
+
+https://www.amazon.com/dp/6305473498
+('robot check',)
+
+https://www.amazon.com/dp/B008645Z0M
+('robot check',)
+
+https://www.amazon.com/dp/B0044DJAQ4
+('robot check',)
+
+https://www.amazon.com/dp/B002XB4938
+('robot check',)
+
+https://www.amazon.com/dp/B000VBIGAE
+('robot check',)
+
+https://www.amazon.com/dp/B000JUB7LW
+('robot check',)
+
+https://www.amazon.com/dp/B00662CHNE
+('robot check',)
+
+https://www.amazon.com/dp/B00004Y87F
+('robot check',)
+
+https://www.amazon.com/dp/B0019GO57S
+('robot check',)
+
+1899
+0.3071654373024236
+
+https://www.amazon.com/dp/B000HT3PBU
+('robot check',)
+
+https://www.amazon.com/dp/B004YAEB6Q
+('robot check',)
+
+https://www.amazon.com/dp/B000JUB7LM
+('robot check',)
+
+https://www.amazon.com/dp/B002PUI956
+('robot check',)
+
+https://www.amazon.com/dp/B000JUBBDQ
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B000JUBBDQ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B00024I3E4
+('robot check',)
+
+https://www.amazon.com/dp/B000EPAPS8
+('robot check',)
+
+https://www.amazon.com/dp/6304897154
+('robot check',)
+
+https://www.amazon.com/dp/B004ZMBKOE
+('robot check',)
+
+https://www.amazon.com/dp/B00005Q5N5
+('robot check',)
+
+https://www.amazon.com/dp/B001LMU1J6
+('robot check',)
+
+https://www.amazon.com/dp/B000JSI61I
+('robot check',)
+
+https://www.amazon.com/dp/6304178360
+('robot check',)
+
+https://www.amazon.com/dp/B000R7G5VO
+('robot check',)
+
+https://www.amazon.com/dp/B00094ARV4
+('robot check',)
+
+https://www.amazon.com/dp/B001M0K2QO
+('robot check',)
+
+https://www.amazon.com/dp/B00127IU4S
+('robot check',)
+
+https://www.amazon.com/dp/B000293N4O
+('robot check',)
+
+https://www.amazon.com/dp/B0065AVS0K
+('robot check',)
+
+https://www.amazon.com/dp/B0009Y26WM
+('robot check',)
+
+https://www.amazon.com/dp/6301657357
+('robot check',)
+
+https://www.amazon.com/dp/0780631528
+('robot check',)
+
+https://www.amazon.com/dp/B008CJ0JVQ
+('robot check',)
+
+https://www.amazon.com/dp/B00932A3C6
+('robot check',)
+
+https://www.amazon.com/dp/B00008G8U9
+('robot check',)
+
+https://www.amazon.com/dp/B0002KPINM
+('robot check',)
+
+https://www.amazon.com/dp/B00069FKXC
+('robot check',)
+
+https://www.amazon.com/dp/B002QMV13A
+('robot check',)
+
+https://www.amazon.com/dp/B003Y68NGA
+('robot check',)
+
+https://www.amazon.com/dp/B00551WU6G
+('robot check',)
+
+https://www.amazon.com/dp/B0019GO578
+('robot check',)
+
+https://www.amazon.com/dp/B00013RCF2
+('robot check',)
+
+https://www.amazon.com/dp/B00069FKXW
+('robot check',)
+
+https://www.amazon.com/dp/6300209296
+('robot check',)
+
+https://www.amazon.com/dp/B0010C7SVG
+('robot check',)
+
+https://www.amazon.com/dp/B003V8368Q
+('robot check',)
+
+https://www.amazon.com/dp/B008H64B0O
+('robot check',)
+
+https://www.amazon.com/dp/B000QPECNK
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B000QPECNK (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/6303510450
+('robot check',)
+
+https://www.amazon.com/dp/B001993YCM
+('robot check',)
+
+https://www.amazon.com/dp/B005C9YZMI
+('robot check',)
+
+https://www.amazon.com/dp/B001CMR4ZE
+('robot check',)
+
+https://www.amazon.com/dp/B005C9YZMS
+('robot check',)
+
+https://www.amazon.com/dp/B001JU6CGG
+('robot check',)
+
+https://www.amazon.com/dp/0966332598
+('robot check',)
+
+https://www.amazon.com/dp/B000W3RXGO
+('robot check',)
+
+https://www.amazon.com/dp/B00007FOO3
+('robot check',)
+
+https://www.amazon.com/dp/B002BFBAWO
+('robot check',)
+
+https://www.amazon.com/dp/B00000IQXL
+('robot check',)
+
+https://www.amazon.com/dp/B002U6CJO2
+('robot check',)
+
+https://www.amazon.com/dp/B000I9WVNC
+('robot check',)
+
+https://www.amazon.com/dp/6302125898
+('robot check',)
+
+https://www.amazon.com/dp/B000WDTO16
+('robot check',)
+
+https://www.amazon.com/dp/B0007XG0TK
+('robot check',)
+
+https://www.amazon.com/dp/B000BEZQNG
+('robot check',)
+
+https://www.amazon.com/dp/6303022979
+('robot check',)
+
+https://www.amazon.com/dp/B0007N1JL4
+('robot check',)
+
+https://www.amazon.com/dp/1568143028
+('robot check',)
+
+https://www.amazon.com/dp/B000009DVS
+('robot check',)
+
+https://www.amazon.com/dp/B00079ZA2W
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B00079ZA2W (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B00480780I
+('robot check',)
+
+https://www.amazon.com/dp/B000MGLVY6
+('robot check',)
+
+https://www.amazon.com/dp/6303593607
+('robot check',)
+
+https://www.amazon.com/dp/6304309236
+('robot check',)
+
+https://www.amazon.com/dp/B000BITUZC
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B000BITUZC (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/6302275997
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/6302275997 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B0007N1JLE
+('robot check',)
+
+https://www.amazon.com/dp/B000009DVL
+('robot check',)
+
+https://www.amazon.com/dp/B000PSHCPI
+('robot check',)
+
+https://www.amazon.com/dp/B004GYKNMG
+('robot check',)
+
+https://www.amazon.com/dp/B00004W5UC
+('robot check',)
+
+https://www.amazon.com/dp/B001MYIXAW
+('robot check',)
+
+https://www.amazon.com/dp/6302498546
+('robot check',)
+
+https://www.amazon.com/dp/B0007LPSKO
+('robot check',)
+
+https://www.amazon.com/dp/B000QQD80W
+('robot check',)
+
+https://www.amazon.com/dp/B000W2H1WG
+('robot check',)
+
+1949
+0.3131416837782341
+
+https://www.amazon.com/dp/B008BSM1CI
+('robot check',)
+
+https://www.amazon.com/dp/B002BFBAW4
+('robot check',)
+
+https://www.amazon.com/dp/B00004CKOM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004U0DG
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004U0DF
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/1575233401
+('robot check',)
+
+https://www.amazon.com/dp/0792153685
+('robot check',)
+
+https://www.amazon.com/dp/6305721556
+('robot check',)
+
+https://www.amazon.com/dp/B00000F4FU
+('robot check',)
+
+https://www.amazon.com/dp/B00004CKOX
+('robot check',)
+
+https://www.amazon.com/dp/B00004CKOJ
+('robot check',)
+
+https://www.amazon.com/dp/B002ZG99MC
+('robot check',)
+
+https://www.amazon.com/dp/B00004CKOP
+('robot check',)
+
+https://www.amazon.com/dp/B00004CKOE
+('robot check',)
+
+https://www.amazon.com/dp/B00004CKOT
+('robot check',)
+
+https://www.amazon.com/dp/6301311787
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006MWA8QQ
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003B2TTVA
+('robot check',)
+
+https://www.amazon.com/dp/B000HXDEYY
+('robot check',)
+
+https://www.amazon.com/dp/B0007TKOTQ
+('robot check',)
+
+https://www.amazon.com/dp/1578004721
+('robot check',)
+
+https://www.amazon.com/dp/B004BF0DCK
+('robot check',)
+
+https://www.amazon.com/dp/B004K6WGDE
+('robot check',)
+
+https://www.amazon.com/dp/B0073U2EWM
+('robot check',)
+
+https://www.amazon.com/dp/6301788559
+('robot check',)
+
+https://www.amazon.com/dp/B0036TGTES
+('robot check',)
+
+https://www.amazon.com/dp/6301357272
+('robot check',)
+
+https://www.amazon.com/dp/6301813871
+('robot check',)
+
+https://www.amazon.com/dp/B005XDNRJU
+('robot check',)
+
+https://www.amazon.com/dp/B0013DT6NK
+('robot check',)
+
+https://www.amazon.com/dp/B00004U0D4
+('robot check',)
+
+https://www.amazon.com/dp/B00004U0D3
+('robot check',)
+
+https://www.amazon.com/dp/B00004U0D5
+('robot check',)
+
+1999
+0.3053053053053053
+
+https://www.amazon.com/dp/B0030I2U2K
+('robot check',)
+
+https://www.amazon.com/dp/6303103634
+('robot check',)
+
+https://www.amazon.com/dp/B0087U3ZBQ
+('robot check',)
+
+https://www.amazon.com/dp/B00005RCD7
+('robot check',)
+
+https://www.amazon.com/dp/B004YLC0O0
+('robot check',)
+
+https://www.amazon.com/dp/B004BF0DCA
+('robot check',)
+
+https://www.amazon.com/dp/B007RKRZPO
+('robot check',)
+
+https://www.amazon.com/dp/B003LPRRW0
+('robot check',)
+
+https://www.amazon.com/dp/B0057YUV6C
+('robot check',)
+
+https://www.amazon.com/dp/B001M5QQFU
+('robot check',)
+
+https://www.amazon.com/dp/B007BKWPRI
+('robot check',)
+
+https://www.amazon.com/dp/B0007LC5AA
+('robot check',)
+
+https://www.amazon.com/dp/B001TZLQ9E
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0040DO0UY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6301290828
+('robot check',)
+
+https://www.amazon.com/dp/B000RPSDVG
+('robot check',)
+
+https://www.amazon.com/dp/0767824199
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B002NACY2W
+('robot check',)
+
+https://www.amazon.com/dp/B00366BBK8
+('robot check',)
+
+https://www.amazon.com/dp/0792835484
+('robot check',)
+
+https://www.amazon.com/dp/B004SUDQ04
+('robot check',)
+
+https://www.amazon.com/dp/6302281822
+(ReadTimeoutError("HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out. (read timeout=10)",),)
+
+https://www.amazon.com/dp/B001DAIVXE
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B001DAIVXE (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B000LE1GGM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00000G3BN
+('robot check',)
+
+https://www.amazon.com/dp/B001JPG85G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004CZFN
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6301967712
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003PK28FM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303864104
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/5555771789
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000SAQARY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B006RXQ1L6
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0083SJFYS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000I2J2WM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6304558805
+('robot check',)
+
+https://www.amazon.com/dp/B00006SFJP
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000I2J2WC
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00106YTD2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6303450881
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/630553795X
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B003RPQOR8
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B001MM4AO2
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6304801300
+('robot check',)
+
+https://www.amazon.com/dp/B0002HOEEY
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00004TLMO
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00366BBKS
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00003UCA1
+('robot check',)
+
+https://www.amazon.com/dp/B00003UCAX
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/0800109090
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/0800109090 (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+2049
+0.298828125
+
+https://www.amazon.com/dp/B000MGTQ6G
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000LXGVCW
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000WZOO64
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0002V7NS4
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0001GH7JA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000G5SBAA
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B0013PVGMM
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000FBVOA4
+('robot check',)
+
+https://www.amazon.com/dp/B000LE1GGC
+('robot check',)
+
+https://www.amazon.com/dp/B00003UCA5
+('robot check',)
+
+https://www.amazon.com/dp/B001QKZD6O
+('robot check',)
+
+https://www.amazon.com/dp/6303142389
+('robot check',)
+
+https://www.amazon.com/dp/B003O3EKRO
+('robot check',)
+
+https://www.amazon.com/dp/6302572126
+('robot check',)
+
+https://www.amazon.com/dp/B0000TSQBQ
+('robot check',)
+
+https://www.amazon.com/dp/B000LE1GGW
+('robot check',)
+
+https://www.amazon.com/dp/B000F4RHOI
+('robot check',)
+
+https://www.amazon.com/dp/630271172X
+('robot check',)
+
+https://www.amazon.com/dp/6304287046
+('robot check',)
+
+https://www.amazon.com/dp/B000G5SBAU
+('robot check',)
+
+https://www.amazon.com/dp/B000GBEWKM
+('robot check',)
+
+https://www.amazon.com/dp/B000GBEWKW
+('robot check',)
+
+https://www.amazon.com/dp/B0017XH77S
+('robot check',)
+
+https://www.amazon.com/dp/B001F784OQ
+('robot check',)
+
+https://www.amazon.com/dp/B000OSC6XW
+('robot check',)
+
+https://www.amazon.com/dp/B0016JDQOG
+('robot check',)
+
+https://www.amazon.com/dp/B004RV713M
+('robot check',)
+
+https://www.amazon.com/dp/B000EMGICS
+('robot check',)
+
+https://www.amazon.com/dp/B000TSIZYG
+('robot check',)
+
+https://www.amazon.com/dp/B0059Z8YUE
+('robot check',)
+
+https://www.amazon.com/dp/6305701849
+('robot check',)
+
+https://www.amazon.com/dp/B0017VG61I
+('robot check',)
+
+https://www.amazon.com/dp/B0079K4YGK
+('robot check',)
+
+https://www.amazon.com/dp/B0001GH7JK
+('robot check',)
+
+https://www.amazon.com/dp/6305314950
+('robot check',)
+
+https://www.amazon.com/dp/B0057UKI78
+('robot check',)
+
+https://www.amazon.com/dp/B000EMG99K
+('robot check',)
+
+https://www.amazon.com/dp/B003QSHMH2
+('robot check',)
+
+https://www.amazon.com/dp/B004X4O988
+('robot check',)
+
+https://www.amazon.com/dp/B000GBEWKC
+('robot check',)
+
+2099
+0.2921830314585319
+
+https://www.amazon.com/dp/B004KS21NW
+('robot check',)
+
+https://www.amazon.com/dp/B006GLPSAY
+('robot check',)
+
+https://www.amazon.com/dp/B000F0UU5A
+('robot check',)
+
+https://www.amazon.com/dp/B004LLIRPE
+('robot check',)
+
+https://www.amazon.com/dp/6305008817
+('robot check',)
+
+https://www.amazon.com/dp/B000ID37R2
+('robot check',)
+
+https://www.amazon.com/dp/B00005YDBZ
+('robot check',)
+
+https://www.amazon.com/dp/1572527919
+('robot check',)
+
+https://www.amazon.com/dp/B002U6ZU0C
+('robot check',)
+
+https://www.amazon.com/dp/6303427162
+('robot check',)
+
+https://www.amazon.com/dp/B002I7Z7V0
+('robot check',)
+
+https://www.amazon.com/dp/B006U3Y3XQ
+('robot check',)
+
+https://www.amazon.com/dp/B0017VG618
+('robot check',)
+
+https://www.amazon.com/dp/B001E7LY6W
+('robot check',)
+
+https://www.amazon.com/dp/B004FFBME4
+('robot check',)
+
+https://www.amazon.com/dp/6301982711
+('robot check',)
+
+https://www.amazon.com/dp/B0001GH7J0
+('robot check',)
+
+https://www.amazon.com/dp/B00005LQUC
+('robot check',)
+
+https://www.amazon.com/dp/B00828ITFU
+('robot check',)
+
+https://www.amazon.com/dp/B007AMMZA4
+('robot check',)
+
+https://www.amazon.com/dp/B003XJABTK
+('robot check',)
+
+https://www.amazon.com/dp/B00344EAHI
+('robot check',)
+
+https://www.amazon.com/dp/B001E0GN6A
+('robot check',)
+
+https://www.amazon.com/dp/B000VLPV1G
+('robot check',)
+
+https://www.amazon.com/dp/B0051WTN14
+('robot check',)
+
+https://www.amazon.com/dp/B001DM3UXI
+('robot check',)
+
+https://www.amazon.com/dp/B000VD5HV8
+('robot check',)
+
+https://www.amazon.com/dp/B00007L4KE
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B000K14LLS
+('robot check',)
+
+https://www.amazon.com/dp/B002C8YSH4
+('robot check',)
+
+2149
+0.2877094972067039
+
+https://www.amazon.com/dp/630492674X
+('robot check',)
+
+https://www.amazon.com/dp/B0000X623Q
+('robot check',)
+
+https://www.amazon.com/dp/B0001WTVZ2
+('robot check',)
+
+https://www.amazon.com/dp/B000KJU1GO
+('robot check',)
+
+https://www.amazon.com/dp/B007N31ZHY
+('robot check',)
+
+https://www.amazon.com/dp/B000PW9UMC
+('robot check',)
+
+https://www.amazon.com/dp/B00003M5F7
+('robot check',)
+
+https://www.amazon.com/dp/6302492653
+('robot check',)
+
+https://www.amazon.com/dp/6304561849
+('robot check',)
+
+https://www.amazon.com/dp/B00561A1UM
+('robot check',)
+
+https://www.amazon.com/dp/B000KJU1GY
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B000KJU1GY (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/6302787009
+('robot check',)
+
+https://www.amazon.com/dp/6302917301
+('robot check',)
+
+https://www.amazon.com/dp/B000XCZGSG
+(MaxRetryError("HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /dp/B000XCZGSG (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))",),)
+
+https://www.amazon.com/dp/B00005RT3B
+('robot check',)
+
+https://www.amazon.com/dp/B0034GK78W
+('robot check',)
+
+https://www.amazon.com/dp/B006IZ7APE
+('robot check',)
+
+https://www.amazon.com/dp/B0046H0HZG
+('robot check',)
+
+https://www.amazon.com/dp/B001WB6MEE
+('robot check',)
+
+https://www.amazon.com/dp/0736065253
+('robot check',)
+
+https://www.amazon.com/dp/B000SAAPHA
+('robot check',)
+
+https://www.amazon.com/dp/B0034GK78C
+('robot check',)
+
+https://www.amazon.com/dp/B001K36GHW
+('robot check',)
+
+https://www.amazon.com/dp/B001P90EQ0
+('robot check',)
+
+https://www.amazon.com/dp/6303082882
+('robot check',)
+
+https://www.amazon.com/dp/B0010XPR0O
+('robot check',)
+
+https://www.amazon.com/dp/B000KJU1G4
+('robot check',)
+
+https://www.amazon.com/dp/1573471054
+('robot check',)
+
+https://www.amazon.com/dp/B001IQDAPW
+('robot check',)
+
+https://www.amazon.com/dp/6301720555
+('robot check',)
+
+https://www.amazon.com/dp/B0001WTVZC
+('robot check',)
+
+https://www.amazon.com/dp/B000K14LL8
+('robot check',)
+
+https://www.amazon.com/dp/B0001WTVZM
+('robot check',)
+
+https://www.amazon.com/dp/B000067G17
+('robot check',)
+
+https://www.amazon.com/dp/B001E6V3XM
+('robot check',)
+
+https://www.amazon.com/dp/B000VD5HVI
+('robot check',)
+
+https://www.amazon.com/dp/B0001WTVZW
+('robot check',)
+
+https://www.amazon.com/dp/B002M4CH9O
+('robot check',)
+
+https://www.amazon.com/dp/B002K052Y2
+('robot check',)
+
+https://www.amazon.com/dp/1578482895
+('robot check',)
+
+https://www.amazon.com/dp/B000EDWKTM
+('robot check',)
+
+https://www.amazon.com/dp/B000F3T5AS
+('robot check',)
+
+https://www.amazon.com/dp/B0051E9JNE
+('robot check',)
+
+https://www.amazon.com/dp/B004J713LA
+('robot check',)
+
+https://www.amazon.com/dp/B0035ECHJ0
+('robot check',)
+
+https://www.amazon.com/dp/B002CPV708
+('robot check',)
+
+https://www.amazon.com/dp/B000V4HEZY
+('robot check',)
+
+https://www.amazon.com/dp/1930004486
+('robot check',)
+
+https://www.amazon.com/dp/B001VFM0VU
+('robot check',)
+
+https://www.amazon.com/dp/6305047189
+('robot check',)
+
+https://www.amazon.com/dp/B000CQQIU8
+('robot check',)
+
+https://www.amazon.com/dp/B000WPLPH0
+('robot check',)
+
+https://www.amazon.com/dp/630343391X
+('robot check',)
+
+https://www.amazon.com/dp/B004SIP6VI
+('robot check',)
+
+https://www.amazon.com/dp/B0015RCURS
+('robot check',)
+
+https://www.amazon.com/dp/B002Y1OOPA
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKV8
+('robot check',)
+
+https://www.amazon.com/dp/B0007TKGQ2
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKV6
+('robot check',)
+
+2199
+0.2916287534121929
+
+https://www.amazon.com/dp/B000CQQIUI
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/B00003M5FT
+(SSLError(SSLError("bad handshake: SysCallError(10054, 'WSAECONNRESET')",),),)
+
+https://www.amazon.com/dp/6305150109
+('robot check',)
+
+https://www.amazon.com/dp/B00008G64M
+('robot check',)
+
+https://www.amazon.com/dp/B000TV4PV0
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKVL
+('robot check',)
+
+https://www.amazon.com/dp/B002ZZ3FNW
+('robot check',)
+
+https://www.amazon.com/dp/B00008G64Z
+('robot check',)
+
+https://www.amazon.com/dp/B000F3AAJS
+('robot check',)
+
+https://www.amazon.com/dp/B0051V0IQO
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKVF
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKVU
+('robot check',)
+
+https://www.amazon.com/dp/B0001GNB7M
+('robot check',)
+
+https://www.amazon.com/dp/B0001GNB7W
+('robot check',)
+
+https://www.amazon.com/dp/B0007VY5KI
+('robot check',)
+
+https://www.amazon.com/dp/B000CQQIUS
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKVV
+('robot check',)
+
+https://www.amazon.com/dp/B00004CV17
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKVY
+('robot check',)
+
+https://www.amazon.com/dp/B0009KA880
+('robot check',)
+
+https://www.amazon.com/dp/B0013PVGN6
+('robot check',)
+
+https://www.amazon.com/dp/B001J1UT8C
+('robot check',)
+
+https://www.amazon.com/dp/6303389554
+('robot check',)
+
+https://www.amazon.com/dp/B0015RCUR8
+('robot check',)
+
+https://www.amazon.com/dp/B0000A14TI
+('robot check',)
+
+https://www.amazon.com/dp/B00008G8BL
+('robot check',)
+
+2249
+0.2860320284697509
+
+https://www.amazon.com/dp/B000A3XYKA
+('robot check',)
+
+https://www.amazon.com/dp/B0006H1D44
+('robot check',)
+
+https://www.amazon.com/dp/078311396X
+('robot check',)
+
+https://www.amazon.com/dp/6301718275
+('robot check',)
+
+https://www.amazon.com/dp/6302678900
+('robot check',)
+
+https://www.amazon.com/dp/B0006HAEOE
+('robot check',)
+
+https://www.amazon.com/dp/B000FILUJ2
+('robot check',)
+
+https://www.amazon.com/dp/B000AAJTM0
+('robot check',)
+
+https://www.amazon.com/dp/B000TXNDNE
+('robot check',)
+
+https://www.amazon.com/dp/B00008G64P
+('robot check',)
+
+https://www.amazon.com/dp/B008JBEKHG
+('robot check',)
+
+https://www.amazon.com/dp/B004ZGS2OQ
+('robot check',)
+
+https://www.amazon.com/dp/B005NQ5LQE
+('robot check',)
+
+https://www.amazon.com/dp/B00008G8BW
+('robot check',)
+
+https://www.amazon.com/dp/630342113X
+('robot check',)
+
+https://www.amazon.com/dp/1575236699
+('robot check',)
+
+https://www.amazon.com/dp/B002M4CH94
+('robot check',)
+
+https://www.amazon.com/dp/6305114080
+('robot check',)
+
+https://www.amazon.com/dp/B000BKJ76M
+('robot check',)
+
+https://www.amazon.com/dp/B0019PL2H0
+('robot check',)
+
+https://www.amazon.com/dp/B000HIVOIM
+('robot check',)
+
+https://www.amazon.com/dp/B0006I679E
+('robot check',)
+
+https://www.amazon.com/dp/B0001Y4MOK
+('robot check',)
+
+https://www.amazon.com/dp/B000HIVOIC
+('robot check',)
+
+https://www.amazon.com/dp/6300185125
+('robot check',)
+
+https://www.amazon.com/dp/B000OCKWVG
+('robot check',)
+
+https://www.amazon.com/dp/B006IRQU4O
+('robot check',)
+
+https://www.amazon.com/dp/B00005NKVW
+('robot check',)
+
+https://www.amazon.com/dp/B00003M5FX
+('robot check',)
+
+https://www.amazon.com/dp/B003HIA9A8
+('robot check',)
+
+https://www.amazon.com/dp/6301975952
+('robot check',)
+
+https://www.amazon.com/dp/B000V02D0E
+('robot check',)
+
+https://www.amazon.com/dp/B0009A40M0
+('robot check',)
+
+https://www.amazon.com/dp/B0019PL2HA
+('robot check',)
+
+https://www.amazon.com/dp/B000H7J9GM
+('robot check',)
+
+https://www.amazon.com/dp/B001C9KX7S
+('robot check',)
+
+https://www.amazon.com/dp/B001CFQO98
+('robot check',)
+
+2299
+0.28067885117493474
+
