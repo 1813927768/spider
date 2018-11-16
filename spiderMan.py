@@ -60,7 +60,7 @@ class SpiderMan(object):
         threads = []
         preFail = 0
         #跳过之前的url
-        for i in range(100760):
+        for i in range(123010):
             self.manager.has_new_url()
         while(self.manager.has_new_url()):
             try:
