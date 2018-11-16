@@ -49,7 +49,7 @@ def check_ip(ip, good_proxies):
 
 def get_proxies():           #另一个资源ip池
     url = 'https://raw.githubusercontent.com/fate0/proxylist/master/proxy.list'
-    r = requests.get(url, headers=header)
+    r = requests.get(url)
     r.raise_for_status()
     proxies = []
     threads = []
@@ -140,7 +140,12 @@ def getFromPool1():
 
 def getFromPool2():
     #另一个资源池https://raw.githubusercontent.com/fate0/proxylist/master/proxy.list
-    return get_proxies()
+    try:
+        return get_proxies()
+    except Exception as e:
+        print("Proxy pool 2 fail\n")
+
+    
 
 def getProxy():
     time1 = time.time()
@@ -156,5 +161,5 @@ def getProxy():
 
 
 if __name__ == '__main__':
-    getFromPool1()
+    getFromPool2()
 

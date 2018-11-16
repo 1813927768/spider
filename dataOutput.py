@@ -7,8 +7,8 @@
 class DataOutput(object):
 
     def __init__(self):
-        self.fout = open('output.txt','w')
-        self.ferr = open('err.txt','w')
+        self.fout = open('output.txt','a')
+        self.ferr = open('err.txt','a')
         # csv输出
         # fileheader = ["title","rating","imdb","url"]
         # self.csvfile = open("output.csv","a",encoding='utf-8')   #result file

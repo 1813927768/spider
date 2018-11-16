@@ -20,11 +20,12 @@ class SpiderMan(object):
         self.downloader = HtmlDownloader()
         self.parser = HtmlParser()
         self.output = DataOutput()
-        self.proxies = getProxy()
-        #self.proxies = getFromPool2()
+        #self.proxies = getProxy()
+        self.proxies = getFromPool2()
         self.count = 0
         self.sumSuccess = 0
         self.sumFail = 0
+        self.updating = False
         #self.proxies = ['http://127.0.0.1:2740']
 
         
@@ -51,17 +52,21 @@ class SpiderMan(object):
 
     
     def setProxy(self):
-        self.proxies = getProxy()
+        #self.proxies = getProxy()
+        self.proxies = getFromPool2()
+        self.updating = False
     
     def crawl(self):
         threads = []
+        preFail = 0
         #跳过之前的url
-        for i in range(0):
+        for i in range(93360):
             self.manager.has_new_url()
         while(self.manager.has_new_url()):
             try:
                 self.count = self.count + 1
-                if self.sumFail % 1500 == 1499: 
+                if self.sumFail-preFail > 46 and not self.updating: 
+                    self.updating = True
                     print("\n\nstart refreshing proxies\n\n")
                     t = threading.Thread(target=SpiderMan.setProxy, args=[self,])
                     t.start()
@@ -70,8 +75,9 @@ class SpiderMan(object):
                     # result = p.apply_async(getFromPool2, args=())
                     # p.close()
                     #self.proxies = result.get()
-                #每20条数据刷新缓冲区和成功率
-                if(self.count % 50 == 49): 
+                #每50条数据刷新缓冲区和成功率
+                if(self.count % 50 == 0 and self.count != 0): 
+                    preFail = self.sumFail
                     rate = float(self.sumSuccess)/float(self.count-1)
                     print("Success Rate: %f" %rate)
                     self.output.store_err([str(self.count),str(rate)])  
