@@ -14,7 +14,9 @@ import random
 
 class SpiderMan(object):
     def __init__(self):
+        #结果输出队列
         self.dqueue = queue.Queue()
+        #错误信息输出队列
         self.equeue = queue.Queue()
         self.manager = UrlManager()
         self.downloader = HtmlDownloader()
@@ -31,14 +33,25 @@ class SpiderMan(object):
         
     def doCrawl(self,new_url):
         try:
-            #HTML下载器下载网页
-            pro = random.choice(self.proxies)
-            #pro = 'http://127.0.0.1:2740'
-            html = self.downloader.download(new_url,pro)
-            #HTML解析器抽取网页数据
-            data = self.parser.parser(new_url,html)
-            # #数据存储器储存文件
-            # self.output.store_data(data)    
+            count = 1
+            while(True):
+                #HTML下载器下载网页
+                pro = random.choice(self.proxies)
+                #pro = 'http://127.0.0.1:2740'
+                html = self.downloader.download(new_url,pro)
+                #HTML解析器抽取网页数据
+                data = self.parser.parser(new_url,html)
+                ## 数据存储器储存文件引起多线程写冲突而废弃
+                # self.output.store_data(data)    
+                #如果遇到机器人检测
+                if data == "robot":
+                    if count < 8:
+                        count = count + 1
+                        continue
+                    else:
+                        raise Exception("robot check")
+                else:
+                    break
             # 队列将输出存储起来
             self.dqueue.put(data)
         except Exception as e:
@@ -60,8 +73,8 @@ class SpiderMan(object):
         threads = []
         preFail = 0
         #跳过之前的url
-        for i in range(123010):
-            self.manager.has_new_url()
+        # for i in range(123010):
+        #     self.manager.has_new_url()
         while(self.manager.has_new_url()):
             try:
                 self.count = self.count + 1
@@ -85,11 +98,10 @@ class SpiderMan(object):
                 #从URL管理器获取新的url
                 new_url = self.manager.get_new_url()
                 #爬虫主过程(多线程优化)
-                time.sleep(random.random())   #随机时间间隔
+                time.sleep(random.random()+1)   #随机时间间隔
                 t = threading.Thread(target=SpiderMan.doCrawl, args=[self,new_url,])
                 t.start()
                 threads.append(t)               
-                #time.sleep(random.uniform(0.3,0.6))
                 #输出结果和错误信息
                 while(not self.dqueue.empty()):
                     data = self.dqueue.get()
@@ -100,7 +112,6 @@ class SpiderMan(object):
             except Exception as e:
                 print("wired fail")
                 #self.output.store_err([new_url,e.args])
-                #time.sleep(random.uniform(0.5,0.7))
         [t.join() for t in threads]
 
 

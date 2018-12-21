@@ -29,12 +29,14 @@ class HtmlParser(object):
         data={}
         data['url']=page_url
         catag = date = actor = director = None
+        if 'Robot Check' in soup.find('title').get_text():
+            return 'robot'
         title = soup.find('span',id="productTitle")
         if title is None: #一类网页
             #获取标题
             title = soup.find('h1',attrs={"class": "DigitalVideoUI_spacing__base dv-node-dp-title avu-full-width"})
             if title is None:
-                raise Exception("robot check")
+                raise Exception("format error")
             data['title'] = title.get_text().strip()
             #获取日期
             date = soup.find("span",attrs={"data-automation-id":"release-year-badge"})
@@ -73,19 +75,21 @@ class HtmlParser(object):
                     actor = items.find_next_sibling('a')
                     if not actor is None:
                         actor = actor.get_text().strip() 
-                #获取导演
+                #获取导演 
                 elif itemName.strip() == "Directors:":  
                     director = items.find_next_sibling('a')
                     if not director is None:
                         director = director.get_text().strip()
                 #获取发行日期
-                elif itemName.strip() == "DVD Release Date:": 
+                elif "Release Date:" in itemName: 
                     date = items.nextSibling.strip()
                 #获取类型
                 elif itemName.strip() == "Amazon Best Sellers Rank:": 
                     catag = items.find_next('b')
                     if not catag is None:
                         catag = catag.get_text().strip()
+                        if "tell us" in catag:
+                            catag = None
         
         #获取评价数目（两种网页一个格式）
         cus_count = soup.find("h2",attrs={"data-hook": "total-review-count"})
