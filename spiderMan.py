@@ -9,6 +9,7 @@ import time
 import queue
 import threading
 import random
+import requests
 
 
 
@@ -26,6 +27,7 @@ class SpiderMan(object):
         self.output = DataOutput()
         #self.proxies = getProxy()
         self.proxies = getFromPool2()
+        self.inactivepro = []
         self.count = 0
         self.sumSuccess = 0
         self.sumFail = 0
@@ -53,9 +55,10 @@ class SpiderMan(object):
                         count = count + 1
                         #加入淘汰机制
                         if(count == 8 and len(self.proxies) > 50):
-                            print(str(pro)+"out\n")
+                            print(str(pro)+" out\n")
                             self.proxies.remove(pro)
-                            pro = 'http://127.0.0.1:2740'
+                            self.inactivepro.append(pro)
+                            pro = random.choice(self.proxies)
                         continue
                     else:
                         raise Exception("robot check")
@@ -67,10 +70,19 @@ class SpiderMan(object):
             self.sumFail = self.sumFail+1
             print("Fail: link %d fail %d times : %s\n" %(self.count ,self.sumFail,new_url),e.args)
             #self.output.store_err([new_url,e.args]) 
+            # 启动激活计划
+            if( len(self.proxies) < 80 ):
+                pro = random.choice(self.inactivepro)
+                if(not pro is None and self.testIP(pro)):
+                    self.inactivepro.remove(pro)
+                    self.proxies.append(pro)
+                    print(str(pro)+" in!!!\n")
+                else:
+                    self.inactivepro.remove(pro)
             self.equeue.put([new_url,e.args])
         else:
             self.sumSuccess = self.sumSuccess+1
-            print("Success: link %d success %d times : %s" %(self.count ,self.sumSuccess,new_url))
+            print("Success: link %d success %d times : %s" %(self.count ,self.sumSuccess,new_url))         
         finally:
             self.pcount -= 1
 
@@ -88,6 +100,14 @@ class SpiderMan(object):
         while(not self.equeue.empty()):
             err = self.equeue.get()
             self.output.store_err(err) 
+
+    def testIP(self,pro):
+        url = 'https://www.douban.com'
+        res = requests.get(url,proxies=pro,timeout=20)
+        if(res.status_code == 200):
+            return True
+        else:
+            return False
     
     def crawl(self):
         threads = []
