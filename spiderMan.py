@@ -14,6 +14,8 @@ import random
 
 class SpiderMan(object):
     def __init__(self):
+        #开启的线程数目
+        self.pcount = 1
         #结果输出队列
         self.dqueue = queue.Queue()
         #错误信息输出队列
@@ -33,6 +35,7 @@ class SpiderMan(object):
         
     def doCrawl(self,new_url):
         try:
+            self.count += 1
             count = 1
             #随机选取代理IP
             pro = random.choice(self.proxies)
@@ -68,12 +71,23 @@ class SpiderMan(object):
         else:
             self.sumSuccess = self.sumSuccess+1
             print("Success: link %d success %d times : %s" %(self.count ,self.sumSuccess,new_url))
+        finally:
+            self.pcount -= 1
 
     
     def setProxy(self):
         #self.proxies = getProxy()
         self.proxies = getFromPool2()
         self.updating = False
+
+    #输出结果和错误信息
+    def outPutData(self):
+        while(not self.dqueue.empty()):
+            data = self.dqueue.get()
+            self.output.store_data(data)      
+        while(not self.equeue.empty()):
+            err = self.equeue.get()
+            self.output.store_err(err) 
     
     def crawl(self):
         threads = []
@@ -104,21 +118,17 @@ class SpiderMan(object):
                 #从URL管理器获取新的url
                 new_url = self.manager.get_new_url()
                 #爬虫主过程(多线程优化)
-                time.sleep(random.random()+1)   #随机时间间隔
+                time.sleep(random.random()+self.pcount/10)   #随机时间间隔，根据线程数调整速度
                 t = threading.Thread(target=SpiderMan.doCrawl, args=[self,new_url,])
                 t.start()
                 threads.append(t)               
                 #输出结果和错误信息
-                while(not self.dqueue.empty()):
-                    data = self.dqueue.get()
-                    self.output.store_data(data)      
-                while(not self.equeue.empty()):
-                    err = self.equeue.get()
-                    self.output.store_err(err)            
+                self.outPutData()
             except Exception as e:
                 print("wired fail")
                 #self.output.store_err([new_url,e.args])
         [t.join() for t in threads]
+        self.outPutData()
 
 
 if __name__=="__main__":

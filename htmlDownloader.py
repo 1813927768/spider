@@ -57,7 +57,7 @@ class HtmlDownloader(object):
         'Accept-Language':'zh-CN,zh;q=0.9,en;q=0.8',
         'User-Agent':user_agent,
         }
-        r = requests.get(url,cookies = cookie,headers=header,proxies=proxy,timeout=10)
+        r = requests.get(url,cookies = cookie,headers=header,proxies=proxy,timeout=20)
         if cookie is None:                  #如果不存在cookie则添加
             self.cookies[user_agent] = r.cookies
         #print(r.request.headers)

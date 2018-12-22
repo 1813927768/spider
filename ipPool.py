@@ -38,7 +38,7 @@ def check_ip(ip, good_proxies):
             'https://www.amazon.com/dp/6302030870',
         ]
         url = random.choice(urls)
-        r = requests.get(url, headers=header, proxies=pro,timeout=3)
+        r = requests.get(url, headers=header, proxies=pro,timeout=10)
         r.raise_for_status()
         print(r.status_code, ip)
     except Exception as e:
@@ -57,7 +57,7 @@ def get_proxies():           #另一个资源ip池
         if(item == ''):
             continue
         tmp = json.loads(item)
-        if(tmp['anonymity']=='high_anonymous' and tmp['response_time'] < 3):   #只获取高匿代理
+        if(tmp['anonymity']=='high_anonymous' and tmp['type'] == "https"):   #只获取高匿https代理
             proxy = tmp['type'].lower()+'://'+str(tmp['host'])+':'+str(tmp['port'])
             t = threading.Thread(target=check_ip, args=[proxy, proxies])
             t.start()                    
