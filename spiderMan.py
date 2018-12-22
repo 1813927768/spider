@@ -34,10 +34,11 @@ class SpiderMan(object):
     def doCrawl(self,new_url):
         try:
             count = 1
+            #随机选取代理IP
+            pro = random.choice(self.proxies)
+            #pro = 'http://127.0.0.1:2740'
             while(True):
                 #HTML下载器下载网页
-                pro = random.choice(self.proxies)
-                #pro = 'http://127.0.0.1:2740'
                 html = self.downloader.download(new_url,pro)
                 #HTML解析器抽取网页数据
                 data = self.parser.parser(new_url,html)
@@ -45,8 +46,13 @@ class SpiderMan(object):
                 # self.output.store_data(data)    
                 #如果遇到机器人检测
                 if data == "robot":
-                    if count < 8:
+                    if count < 9:
                         count = count + 1
+                        #加入淘汰机制
+                        if(count == 8 and len(self.proxies) > 50):
+                            print(str(pro)+"out\n")
+                            self.proxies.remove(pro)
+                            pro = 'http://127.0.0.1:2740'
                         continue
                     else:
                         raise Exception("robot check")
