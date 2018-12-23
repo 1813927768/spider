@@ -1,10 +1,11 @@
 # -*- coding:utf-8 -*-
-from urlmanager import UrlManager
+# from urlmanager import UrlManager
 from htmlDownloader import HtmlDownloader
 from htmlParser import HtmlParser
 from dataOutput import DataOutput
-from ipPool import getProxy,getFromPool2
+from ipPool import getProxy,getFromPool2,getFromPool1
 #from multiprocessing import Pool
+from errUrl import UrlManager
 import time
 import queue
 import threading
@@ -26,7 +27,7 @@ class SpiderMan(object):
         self.parser = HtmlParser()
         self.output = DataOutput()
         #self.proxies = getProxy()
-        self.proxies = getFromPool2()
+        self.proxies = getFromPool1()
         self.inactivepro = []
         self.count = 0
         self.sumSuccess = 0
@@ -37,7 +38,7 @@ class SpiderMan(object):
         
     def doCrawl(self,new_url):
         try:
-            self.count += 1
+            self.pcount += 1
             count = 1
             #随机选取代理IP
             pro = random.choice(self.proxies)
@@ -54,7 +55,7 @@ class SpiderMan(object):
                     if count < 9:
                         count = count + 1
                         #加入淘汰机制
-                        if(count == 8 and len(self.proxies) > 50):
+                        if(count == 8 and len(self.proxies) > 100 and self.proxies.index(pro) >= 0):
                             print(str(pro)+" out\n")
                             self.proxies.remove(pro)
                             self.inactivepro.append(pro)
@@ -69,9 +70,8 @@ class SpiderMan(object):
         except Exception as e:
             self.sumFail = self.sumFail+1
             print("Fail: link %d fail %d times : %s\n" %(self.count ,self.sumFail,new_url),e.args)
-            #self.output.store_err([new_url,e.args]) 
             # 启动激活计划
-            if( len(self.proxies) < 80 ):
+            if( len(self.proxies) < 200 ):
                 pro = random.choice(self.inactivepro)
                 if(not pro is None and self.testIP(pro)):
                     self.inactivepro.remove(pro)
@@ -103,7 +103,7 @@ class SpiderMan(object):
 
     def testIP(self,pro):
         url = 'https://www.douban.com'
-        res = requests.get(url,proxies=pro,timeout=20)
+        res = requests.get(url,proxies={'proxy':pro},timeout=20)
         if(res.status_code == 200):
             return True
         else:
@@ -113,12 +113,13 @@ class SpiderMan(object):
         threads = []
         preFail = 0
         #跳过之前的url
-        # for i in range(123010):
-        #     self.manager.has_new_url()
+        for i in range(6900):
+            self.manager.has_new_url()
         while(self.manager.has_new_url()):
             try:
                 self.count = self.count + 1
-                if self.sumFail-preFail > 46 and not self.updating: 
+                # 启动更新计划
+                if self.sumFail-preFail > 46 and not self.updating:
                     self.updating = True
                     print("\n\nstart refreshing proxies\n\n")
                     t = threading.Thread(target=SpiderMan.setProxy, args=[self,])
@@ -138,7 +139,11 @@ class SpiderMan(object):
                 #从URL管理器获取新的url
                 new_url = self.manager.get_new_url()
                 #爬虫主过程(多线程优化)
-                time.sleep(random.random()+self.pcount/10)   #随机时间间隔，根据线程数调整速度
+                if self.pcount < 0:
+                    pcount = 0
+                else:
+                    pcount = self.pcount
+                time.sleep(random.random()+pcount/10)   #随机时间间隔，根据线程数调整速度
                 t = threading.Thread(target=SpiderMan.doCrawl, args=[self,new_url,])
                 t.start()
                 threads.append(t)               
@@ -146,7 +151,6 @@ class SpiderMan(object):
                 self.outPutData()
             except Exception as e:
                 print("wired fail")
-                #self.output.store_err([new_url,e.args])
         [t.join() for t in threads]
         self.outPutData()
 

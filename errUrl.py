@@ -11,7 +11,7 @@ class UrlManager(object):
     
     def has_new_url(self):
         line = self.fileRead.readline() 
-        if(not line is None and not line == "\n"):
+        if(not line is None and not line.strip() == ""):
             self.ID = line.strip()
             self.url = r'https://www.amazon.com/dp/'+self.ID
             return True

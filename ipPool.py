@@ -57,7 +57,7 @@ def get_proxies():           #另一个资源ip池
         if(item == ''):
             continue
         tmp = json.loads(item)
-        if(tmp['anonymity']=='high_anonymous' and tmp['type'] == "https"):   #只获取高匿https代理
+        if(tmp['anonymity']=='high_anonymous' and tmp['type'] == "https" and tmp['response_time'] < 5):   #只获取高匿https代理
             proxy = tmp['type'].lower()+'://'+str(tmp['host'])+':'+str(tmp['port'])
             t = threading.Thread(target=check_ip, args=[proxy, proxies])
             t.start()                    
@@ -66,6 +66,7 @@ def get_proxies():           #另一个资源ip池
             # check_ip(proxy,proxies)
     [t.join() for t in threads]
         # print(tmp)
+    print(str(len(proxies)) + " found in pool2\n")
     return proxies
 
 
