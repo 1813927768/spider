@@ -137,6 +137,7 @@ def getFromPool1():
         proxy = t.get_result()
         proxies.extend(proxy)
         #write_to_txt(proxies)
+    print(str(len(proxies)) + " found in pool1\n")
     return proxies
 
 def getFromPool2():

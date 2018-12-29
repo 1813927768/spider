@@ -15,7 +15,7 @@ class UrlManager(object):
             self.ID = line.strip()
             self.url = r'https://www.amazon.com/dp/'+self.ID
             return True
-        elif(self.count < 30):
+        elif(self.count < 29):
             print("switch to next file" + str(self.count+1) + ".txt")
             self.count += 1
             fileName = 'unknownHtml'+str(self.count)+'.txt'

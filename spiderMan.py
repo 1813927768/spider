@@ -26,8 +26,8 @@ class SpiderMan(object):
         self.downloader = HtmlDownloader()
         self.parser = HtmlParser()
         self.output = DataOutput()
-        #self.proxies = getProxy()
-        self.proxies = getFromPool1()
+        # self.proxies = getProxy()
+        self.proxies = getFromPool2()
         self.inactivepro = []
         self.count = 0
         self.sumSuccess = 0
@@ -52,14 +52,21 @@ class SpiderMan(object):
                 # self.output.store_data(data)    
                 #如果遇到机器人检测
                 if data == "robot":
-                    if count < 9:
+                    if count < 6:
                         count = count + 1
                         #加入淘汰机制
-                        if(count == 8 and len(self.proxies) > 100 and self.proxies.index(pro) >= 0):
-                            print(str(pro)+" out\n")
-                            self.proxies.remove(pro)
-                            self.inactivepro.append(pro)
-                            pro = random.choice(self.proxies)
+                        # self.proxies - self.inactivepro 表现良好
+                        # self.proxies and self.inactivepro 一次被墙 待观察
+                        # self.inactivepro - self.proxies 两次被墙 暂时退出
+                        # none 复活失败，永久退出
+                        if(count == 5 and len(self.proxies) > 100 ):
+                            if(self.inactivepro.index(pro) < 0): #加入观察名单
+                                self.inactivepro.append(pro)
+                                pro = random.choice(self.proxies)
+                            else: #暂时退出
+                                print(str(pro)+" out\n")
+                                if(self.proxies.index(pro) >= 0):
+                                    self.proxies.remove(pro)
                         continue
                     else:
                         raise Exception("robot check")
@@ -71,13 +78,14 @@ class SpiderMan(object):
             self.sumFail = self.sumFail+1
             print("Fail: link %d fail %d times : %s\n" %(self.count ,self.sumFail,new_url),e.args)
             # 启动激活计划
-            if( len(self.proxies) < 200 ):
+            if( len(self.proxies) < 200 or len(self.inactivepro)>500):
                 pro = random.choice(self.inactivepro)
-                if(not pro is None and self.testIP(pro)):
-                    self.inactivepro.remove(pro)
+                if(not pro is None and self.proxies.index(pro) < 0 and self.testIP(pro)):
                     self.proxies.append(pro)
                     print(str(pro)+" in!!!\n")
-                else:
+                # 不管结果如何，都要将pro移除，
+                # 判断条件是为了防止多线程并发出现问题
+                if(self.inactivepro.index(pro)>=0):
                     self.inactivepro.remove(pro)
             self.equeue.put([new_url,e.args])
         else:
@@ -113,7 +121,7 @@ class SpiderMan(object):
         threads = []
         preFail = 0
         #跳过之前的url
-        for i in range(6900):
+        for i in range(22350):
             self.manager.has_new_url()
         while(self.manager.has_new_url()):
             try:
